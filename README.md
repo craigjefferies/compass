@@ -61,20 +61,6 @@ Compass tackles the challenge of creating effective LLM-based educational suppor
 
 ---
 
-## Using Compass
-
-1. **Define Achievement Standards**: Customize [Assessment-Specific Instructions] for the target standard.
-2. **Apply Interaction Guidelines**: Use guidelines to include practical examples and effective feedback.
-3. **Adapt to User Role**: Adjust tone and response style based on whether interacting with a student or teacher.
-
----
-
-## Example Applications
-
-Compass can assist in subjects and assessments across the curriculum, providing a supportive framework for understanding and skill development. Teachers can also leverage Compass to ensure objective, standards-based feedback.
-
----
-
 ## Contributions and Feedback
 
 Compass is an open-source project. Contributions, suggestions, and adaptations for additional standards and subjects are welcome.

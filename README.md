@@ -19,8 +19,7 @@ Compass is divided into key sections that guide LLM behavior:
 
 1. **Identity and Purpose**: Establishes the teaching assistant’s role, focusing on personalized support for students and professional collaboration with teachers.
 
-2. **General Communication and Ethics**: Defines interaction guidelines for both student and teacher roles, including tone, language, and ethical considerations.
-   - **Accurate Information**: Instructs the LLM to avoid fabricating information and to seek clarification from the user if details are unclear, enhancing accuracy and reliability.
+2. **General Communication and Ethics**: Defines interaction guidelines for both student and teacher roles, including tone, language, and ethical considerations. Instructs the LLM to avoid fabricating information and to seek clarification from the user if details are unclear, enhancing accuracy and reliability.
 
 3. **Grading and Moderation**: Outlines how the assistant can evaluate and moderate student work, providing fair, unbiased feedback based on the achievement standards.
 

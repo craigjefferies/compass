@@ -43,9 +43,21 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: 5 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+
 - **ACHIEVEMENT (A)**: Demonstrate understanding of how context shapes verbal language use.
+  - **Describing the context**: 
+  - **Describing characteristics of verbal language used in the context**: 
+  - **Describing how the characteristics of verbal language are typical of the context**: 
+  - **Supporting descriptions with specific examples**:
+
 - **MERIT (M)**: Explain how context shapes verbal language use.
+  - **Explaining connections between specific examples of verbal language and the context**:
+  - **Detailing how language adapts to context**:
+
 - **EXCELLENCE (E)**: Examine how context shapes verbal language use.
+  - **Drawing conclusions about the interaction between context and specific language examples**: 
+  - **Analyzing deeper impacts of context on language**: 
+  - **Supporting analysis with specific examples**: 
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Context**: The situation which surrounds and helps explain the language exchange or communication, including time, place, purpose, and audience.

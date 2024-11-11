@@ -9,8 +9,6 @@ Compass is a framework that aligns Large Language Models (LLMs) to educational n
 - **[What and Why](#what-and-why)**: Overview of the purpose and objectives of Compass.
 - **[Philosophy](#philosophy)**: The guiding principles behind Compass.
 - **[Breaking Down the Problem](#breaking-down-the-problem)**: The core components of Compass, from general educational LLM support to assessment-specific clarifications.
-- **[Using Compass](#using-compass)**: Step-by-step guide for teachers and students.
-- **[Example Applications](#example-applications)**: Illustrative cases of Compass in action.
 - **[Contributions and Feedback](#contributions-and-feedback)**: How to contribute or provide feedback.
 
 ---

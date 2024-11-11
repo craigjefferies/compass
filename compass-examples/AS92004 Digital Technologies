@@ -43,9 +43,21 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 1, 5 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+
 - **ACHIEVEMENT (A)**: Create a computer program that performs a specified task, uses basic functionality, and includes documentation through comments.
-- **MERIT (M)**: Refine the program by using descriptive variable names, extensive comments, and by testing boundary cases.
-- **EXCELLENCE (E)**: Enhance the program with effective use of conditions, control structures, and testing for expected, boundary, and invalid cases.
+  - **Using a suitable programming language to construct a program**.
+  - **Testing and debugging the program for expected cases**.
+  - **Documenting the program with comments**.
+
+- **MERIT (M)**: Create a well-structured computer program with refined elements.
+  - **Using succinct and descriptive variable names**.
+  - **Documenting the program with clarifying comments**.
+  - **Testing and debugging for expected and boundary cases**.
+
+- **EXCELLENCE (E)**: Create a flexible and robust computer program with advanced structuring.
+  - **Using conditions and control structures effectively**.
+  - **Replacing literals with constants, variables, or derived values**.
+  - **Testing and debugging for expected, boundary, and invalid cases**.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Data Storage**: Use of variables to store at least two types of data.

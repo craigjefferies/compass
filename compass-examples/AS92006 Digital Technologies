@@ -43,9 +43,18 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 1, 5 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+
 - **ACHIEVEMENT (A)**: Describe the purpose of an interface and usability principles, demonstrating understanding.
+  - **Describing the purpose of human-computer interfaces**.
+  - **Describing usability principles and their use in human-computer interfaces**.
+
 - **MERIT (M)**: Explain how usability principles are applied in human-computer interfaces, making clear connections.
+  - **Explaining how usability principles have been applied in human-computer interfaces**.
+  - **Explaining the usability of human-computer interfaces in terms of usability principles**.
+
 - **EXCELLENCE (E)**: Evaluate usability, compare multiple interfaces, and provide original recommendations for improvement.
+  - **Comparing the usability of human-computer interfaces**.
+  - **Applying usability principles to suggest improvements to human-computer interface usability**.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Usability**: The effectiveness, efficiency, and satisfaction with which users interact with an interface.

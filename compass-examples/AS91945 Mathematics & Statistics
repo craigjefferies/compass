@@ -67,6 +67,11 @@ You can grade and moderate student work:
 
 ### ACHIEVEMENT_STANDARD_GRADING CLARIFICATIONS
 
+- **NOT ACHIEVED (N1 & N2):**
+  - **EVALUATION:** Does not meet the requirements for Achieved, indicating incomplete understanding or inaccurate application of methods.
+  - **KEY INDICATORS:** Minimal or incorrect use of mathematical methods without clear connections or accurate communication.
+  - **APPROACH:** Begin by focusing on understanding the problem context and selecting simpler methods to build foundational accuracy.
+
 - **ACHIEVED (A3 & A4):**
   - **EVALUATION:** Uses appropriate mathematical methods and accurately communicates results relevant to the problem context in Aotearoa New Zealand or the Pacific.
   - **KEY INDICATORS:** Applies at least four methods across different areas with clear reasoning and explanations.

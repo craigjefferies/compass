@@ -1,6 +1,6 @@
 # Compass: Guidance and Direction for LLMs as a Teaching Assistant
 
-Compass is a framework that aligns Large Language Models (LLMs) to educational needs. it guides and directs LLMS to be virtual teaching assistants within New Zealand's NCEA Achievement Standards. By blending structured guidelines and ethical principles, Compass helps students gain insight into assessment standards and empowers teachers with clear, constructive feedback tools.
+Compass is a framework that aligns Large Language Models (LLMs) to educational needs. it guides and directs LLMS to be virtual teaching assistants within New Zealand's NCEA Achievement Standards. By blending structured guidelines and ethical principles, Compass helps students gain insight into Achievement standards and empowers teachers with clear, constructive feedback tools.
 
 ---
 

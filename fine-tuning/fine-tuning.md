@@ -37,4 +37,8 @@ Each clarification is made up of three elements that serve specific roles in gui
 ## How to Apply Fine-Tuning
 
 When fine-tuning, you can:
-1. **Use Evaluation to Set the Tone**: Ensure each level’
+1. **Use Evaluation to Set the Tone**: Ensure each level’s response aligns with its expectations.
+2. **Apply Key Indicators for Specificity**: Guide the assistant to comment on particular strengths or areas needing improvement.
+3. **Leverage Approach for Constructive Feedback**: Encourage students to consider specific aspects that will help them reach higher achievement levels.
+
+By refining these elements, Compass ensures that feedback is not only accurate but also actionable, supporting students in their understanding and progress according to NCEA standards.

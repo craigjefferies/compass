@@ -7,5 +7,5 @@
 - [AS92005 Digital Technologies](https://chatgpt.com/g/g-sZ2YYNNGx-as92005-as1-2-digital-technology-outcome-assistant)
 - [AS92006 Digital Technologies](https://chatgpt.com/g/g-MRbbheEY5-92006-as1-3-digital-technology-hci-assistant)
 - [AS92012 Materials & Process Technologies](https://chatgpt.com/g/g-LKFQMsC98-as92012-as1-1-mpt-outcome-development-assistant)
-- [AS92013 Materials & Process Technology](https://chatgpt.com/g/g-EUuwuAjWy-as92103-as1-2-mpt-experiment-with-materials)
+- [AS92013 Materials & Process Technology](https://chatgpt.com/g/g-EUuwuAjWy-as92013-as1-2-mpt-experiment-with-materials)
 - [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)

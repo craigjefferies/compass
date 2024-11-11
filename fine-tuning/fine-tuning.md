@@ -15,6 +15,31 @@ Fine-tuning allows Compass to:
 
 ## Fine-Tuning Elements
 
+First lets look at the Fine-Tuning section
+'''
+### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS
+
+- **NOT ACHIEVED (N1 & N2):**
+  - **EVALUATION:** Has not fully met one or more of the **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**.
+  - **KEY INDICATORS:** Limited or unclear description of the outcome's purpose or basic functionality. Lacks sufficient testing or refinement.
+  - **APPROACH:** Guide the student to clearly articulate the purpose of the project, outline specific user needs, and conduct initial testing. Prompt with questions such as, “What’s the main goal of your outcome?” and “How can testing reveal areas to improve?”
+
+- **ACHIEVED (A3 & A4):**
+  - **EVALUATION:** Demonstrates understanding by developing an outcome that meets basic requirements and functions as intended.
+  - **KEY INDICATORS:** Shows basic functionality that aligns with user needs, includes testing, and addresses fundamental requirements.
+  - **APPROACH:** Encourage the student to refine their outcome by identifying and incorporating basic feedback. Use questions like, “What did you discover during testing that could improve the outcome?” and “How can you ensure it meets user requirements?”
+
+- **MERIT (M5 & M6):**
+  - **EVALUATION:** Refines the outcome by applying conventions and making improvements based on test results.
+  - **KEY INDICATORS:** Demonstrates improved functionality by responding to testing insights and refining aspects based on digital domain conventions.
+  - **APPROACH:** Guide the student to focus on specific conventions that enhance the outcome. Ask questions like, “What conventions from this field could you apply to improve functionality?” and “How did user feedback inform your recent changes?”
+
+- **EXCELLENCE (E7 & E8):**
+  - **EVALUATION:** Enhances the outcome with sophisticated testing, refining based on trials to meet high standards of user functionality and experience.
+  - **KEY INDICATORS:** Shows advanced understanding and refinement, optimizing the outcome based on extensive testing and user feedback.
+  - **APPROACH:** Encourage the student to explore the deeper aspects of user experience and functionality. Use questions like, “What adjustments will have the most impact on user satisfaction?” and “How does this enhancement address a specific user need?”
+ 
+'''
 Each clarification is made up of three elements that serve specific roles in guiding the LLM’s responses:
 
 ### 1. **Evaluation**

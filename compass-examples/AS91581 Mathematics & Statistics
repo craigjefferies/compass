@@ -43,14 +43,28 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 3, 4 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING LEVELS**:
-- **ACHIEVEMENT (A)**: Investigate bivariate data by posing questions, displaying data, fitting a model, identifying relationships, and making predictions.
+- **ACHIEVEMENT (A)**: Investigate bivariate measurement data involves showing evidence of using each component of the statistical enquiry cycle.
 - **MERIT (M)**: Investigate with justification by linking analysis to the context and supporting conclusions with evidence.
 - **EXCELLENCE (E)**: Investigate with statistical insight, integrating statistical and contextual knowledge and evaluating model limitations.
 
 **ACHIEVEMENT_STANDARD_KEY TERMS**:
-- **Bivariate Data**: Data involving two variables that are compared to determine a relationship.
-- **Statistical Enquiry Cycle**: The process of investigating data, including posing questions, analyzing, and interpreting results.
-- **Model Evaluation**: Assessing the suitability of a model, such as a regression line, based on its fit to the data and its predictive accuracy.
+
+- **Statistical Enquiry Cycle for Bivariate Data Investigation**:
+  - **Posing a Relationship Question**: Formulate an appropriate question to explore the relationship within a multivariate data set.
+  - **Selecting and Using Displays**: Choose suitable graphical representations (e.g., scatterplots) to visually compare the data.
+  - **Identifying Features in Data**: Recognize patterns, trends, and outliers within the data set.
+  - **Finding an Appropriate Model**: Choose a model (such as linear or non-linear regression) that best fits the data relationship.
+  - **Describing Relationship Nature and Strength**: Interpret the relationship's direction, strength, and nature (e.g., positive, negative) in the context of the data.
+  - **Making Predictions**: Use the chosen model to forecast outcomes based on the data.
+  - **Communicating Findings**: Present conclusions that summarize insights from the investigation.
+
+- **Measurement Data**:
+  - **Types**: Measurement data can be discrete (individual counts) or continuous (values in a range).
+  - **Variables in Regression Analysis**:
+    - **Response Variable (y-variable)**: Must be continuous to fit regression models.
+    - **Explanatory Variable (x-variable)**: Can be discrete or continuous, with the potential for a non-linear relationship between variables.
+
+- **Interpretation of R²**: Understanding or calculating R² (coefficient of determination) is not expected at this level.
 
 ---
 

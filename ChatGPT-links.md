@@ -1,5 +1,6 @@
 - [AS91357 Technology](https://chatgpt.com/g/g-l1MWsvzG3-as91357-as2-4-technology-prototype-assistant)
 - [AS91581 Mathematics & Statistics](https://chatgpt.com/g/g-bal66uX2k-as91581-as3-9-bivariate-data-investigation)
+- [AS91945 Mathematics & Statistics](https://chatgpt.com/g/g-6732792fc8e08190a44cb92c6d054247-as91945-as1-2-mathematics-statistics)
 - [AS91610 Technology](https://chatgpt.com/g/g-3y2dh2JFY-as91610-as3-3-technology-conceptual-design)
 - [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)
 - [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)

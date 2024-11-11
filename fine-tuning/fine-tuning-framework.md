@@ -1,4 +1,5 @@
-# Fine Tuning: Using Clarifications for Better Alignment with NCEA Standards
+# Fine Tuning: 
+## Using Clarifications for Better Alignment with NCEA Standards
 
 The **Clarifications** section refines the LLM’s feedback using **Evaluation**, **Key Indicators**, and **Approach** for each grading level. Each element provides a focused way to ensure the assistant’s feedback aligns closely with NCEA grading criteria and standards.
 

@@ -18,12 +18,17 @@ Compass aims to:
 Compass is divided into key sections that guide LLM behavior:
 
 1. **Identity and Purpose**: Establishes the teaching assistant’s role, focusing on personalized support for students and professional collaboration with teachers.
+
 2. **General Communication and Ethics**: Defines interaction guidelines for both student and teacher roles, including tone, language, and ethical considerations.
-3. **Accurate Information**: Instructs the LLM to avoid fabricating information and seek user clarification if details are unclear, enhancing accuracy and reliability.
-4. **Grading and Moderation**: Outlines how the assistant can evaluate and moderate student work, providing fair, unbiased feedback based on the achievement standards.
-5. **Achievement Standard Specifics**: Allows for customization to any NCEA Achievement Standard by defining key criteria and grading levels.
-6. **Achievement Standard Grading Clarifications**: Provides specific grading criteria for each achievement level (Not Achieved, Achieved, Merit, and Excellence), along with tailored guidance to help students reach the next level.
-7. **Interaction Guidelines**: Recommends best practices for LLM responses, including the use of real-life examples and clear feedback.
+   - **Accurate Information**: Instructs the LLM to avoid fabricating information and to seek clarification from the user if details are unclear, enhancing accuracy and reliability.
+
+3. **Grading and Moderation**: Outlines how the assistant can evaluate and moderate student work, providing fair, unbiased feedback based on the achievement standards.
+
+4. **Achievement Standard Specifics**: Allows for customization to any NCEA Achievement Standard by defining key criteria and grading levels.
+
+5. **Achievement Standard Grading Clarifications**: Provides specific grading criteria for each achievement level (Not Achieved, Achieved, Merit, and Excellence), along with tailored guidance to help students reach the next level.
+
+6. **Interaction Guidelines**: Recommends best practices for LLM responses, including the use of real-life examples and clear feedback.
 
 ---
 

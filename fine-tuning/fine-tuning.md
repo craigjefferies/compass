@@ -16,7 +16,8 @@ Fine-tuning allows Compass to:
 ## Fine-Tuning Elements
 
 First lets look at the Fine-Tuning section
-'''
+
+```
 ### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS
 
 - **NOT ACHIEVED (N1 & N2):**
@@ -39,7 +40,7 @@ First lets look at the Fine-Tuning section
   - **KEY INDICATORS:** Shows advanced understanding and refinement, optimizing the outcome based on extensive testing and user feedback.
   - **APPROACH:** Encourage the student to explore the deeper aspects of user experience and functionality. Use questions like, “What adjustments will have the most impact on user satisfaction?” and “How does this enhancement address a specific user need?”
  
-'''
+```
 Each clarification is made up of three elements that serve specific roles in guiding the LLM’s responses:
 
 ### 1. **Evaluation**

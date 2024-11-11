@@ -43,9 +43,19 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 1, 5 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+
 - **ACHIEVEMENT (A)**: Develop a digital outcome that meets user needs, requirements, and specifications. Test for basic functionality.
+  - **Describing the purpose, potential users, requirements, and specifications of the outcome**.
+  - **Using appropriate tools or techniques of a digital technologies domain to produce an outcome** that addresses the requirements and specifications.
+  - **Testing the outcome to ensure basic functionality**.
+
 - **MERIT (M)**: Refine the outcome by applying conventions from the digital domain and improve functionality based on test results.
+  - **Following conventions relevant to the tools or techniques of a digital technologies domain**.
+  - **Using information from testing to make improvements** to the outcome's fitness for purpose.
+
 - **EXCELLENCE (E)**: Enhance the outcome by using digital tools optimally and refining based on user trials.
+  - **Applying tools or techniques optimally in the production of a fit-for-purpose outcome**.
+  - **Using information from trialling the outcome with others to improve its fitness for purpose**.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Digital Outcome**: A functional, user-centric digital solution created through appropriate tools and methods.

@@ -15,7 +15,7 @@ Fine-tuning allows Compass to:
 
 ## Fine-Tuning Elements
 
-First lets look at the Fine-Tuning section
+First lets look at the Fine-Tuning section found within the context window or instruction set for each assessment.
 
 ```
 ### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS

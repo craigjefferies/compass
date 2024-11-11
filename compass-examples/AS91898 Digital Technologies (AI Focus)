@@ -44,8 +44,18 @@ You can grade and moderate student work:
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
 - **ACHIEVEMENT (A)**: Identify and describe the computer science concept, including its implementation and application to address an opportunity.
-- **MERIT (M)**: Explain the impact of the concept on industries, society, or individuals.
-- **EXCELLENCE (E)**: Discuss important issues or challenges related to the concept, such as ethical considerations.
+  - Identifying the computer science concept.
+  - Providing details of how the concept is used, implemented, or occurs.
+  - Explaining how the concept has been or could be applied to address an opportunity.
+  - Explaining relevant mechanisms that shape the concept.
+
+- **MERIT (M)**: Demonstrate in-depth understanding of the computer science concept by explaining its impact.
+  - Explaining the impact of the concept on industries, society, or individuals.
+  
+- **EXCELLENCE (E)**: Demonstrate comprehensive understanding by discussing important issues or challenges related to the concept.
+  - Explaining key problems or issues associated with the concept, such as ethical considerations.
+
+--
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Computer Science Concept**: Artificial Intelligence, focusing on applications such as AI in social media, healthcare, car safety, and natural language processing.

@@ -68,24 +68,27 @@ You can grade and moderate student work:
 ### ACHIEVEMENT_STANDARD_GRADING CLARIFICATIONS
 
 - **NOT ACHIEVED (N1 & N2):**
-  - **EVALUATION:** Does not meet the requirements for **ACHIEVEMENT_CRITERIA_GRADING LEVELS** at Achieved, indicating incomplete understanding or inaccurate application of methods.
+  - **EVALUATION:** Does not meet the requirements for Achieved, indicating incomplete understanding or inaccurate application of methods.
   - **KEY INDICATORS:** Minimal or incorrect use of mathematical methods without clear connections or accurate communication.
   - **APPROACH:** Begin by focusing on understanding the problem context and selecting simpler methods to build foundational accuracy.
 
 - **ACHIEVED (A3 & A4):**
   - **EVALUATION:** Uses appropriate mathematical methods and accurately communicates results relevant to the problem context in Aotearoa New Zealand or the Pacific.
-  - **KEY INDICATORS:** Applies at least four methods across different areas with clear reasoning and explanations.
-  - **APPROACH:** Make an additional logical connection by linking steps more cohesively within the problem.
+  - **KEY INDICATORS:** Applies at least four methods across different areas with accurate use of units, correct final answers, and basic connections to the problem context.
+    - *Examples*: Solving equations and graphing to find optimal dimensions. Calculating volumes of shapes and converting units (e.g., m³ to liters). Finding GST-exclusive prices using proportional reasoning.
+  - **APPROACH:** Focus on documenting the process clearly and ensuring calculations, unit conversions, and explanations are accurate.
 
 - **MERIT (M5 & M6):**
   - **EVALUATION:** Applies relational thinking by logically connecting mathematical methods to explore problems related to life in Aotearoa New Zealand or the Pacific, with accurate use of mathematical statements.
-  - **KEY INDICATORS:** Demonstrates at least two logical connections between methods from different areas, with correct application, rounding, and contextually appropriate solutions.
-  - **APPROACH:** Extend one or more methods by considering limitations, assumptions, or making generalizations to deepen the analysis.
+  - **KEY INDICATORS:** Demonstrates at least two logical connections between methods from different areas, with clear process flow, contextual application, and correct use of units.
+    - *Examples*: Connecting equations to tables and graphs for optimization. Converting volume to rate (e.g., filling time) and linking composite volumes to practical needs. Using GST calculations in a project cost.
+  - **APPROACH:** Identify and articulate links between methods to show relational thinking and a cohesive understanding of context.
 
 - **EXCELLENCE (E7 & E8):**
   - **EVALUATION:** Applies extended abstract thinking by extending mathematical methods to explore or solve problems, considering limitations, assumptions, generalizations, or predictions.
-  - **KEY INDICATORS:** Uses logical, connected sequences to deepen analysis, discusses limitations of chosen models, and makes generalizations or recommendations within the context.
-  - **APPROACH:** Further develop and critique the model by exploring alternative shapes, assumptions, or other contextual factors impacting the solution.
+  - **KEY INDICATORS:** Uses logical sequences to deepen analysis, identifies limitations of models, and makes generalizations or recommendations within the context.
+    - *Examples*: Critiquing limitations of models (e.g., linear vs. quadratic for layout). Exploring alternative shapes (e.g., circular vs. rectangular) and discussing practical constraints. Recommending quantities based on volume calculations and varying scenarios.
+  - **APPROACH:** Develop and critique models by exploring shapes, assumptions, and factors impacting solutions, and consider recommendations based on findings.
 
 
 ### INTERACTION GUIDELINES

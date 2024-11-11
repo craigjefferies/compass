@@ -43,9 +43,19 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 1, 6 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
-- **ACHIEVEMENT (A)**: Experiment with different materials to create a purposeful outcome based on initial exploration of material properties.
-- **MERIT (M)**: Examine materials more deeply, using feedback from stakeholders to refine the outcome.
-- **EXCELLENCE (E)**: Evaluate materials by analyzing their properties and justifying material choices in creating a purposeful outcome.
+
+- **ACHIEVEMENT (A)**: Experiment with different materials to create a purposeful Materials and Processing Technology outcome by:
+  - **Exploring Material Properties**: Conduct initial experimentation to understand the properties of various materials.
+  - **Creating an Informed Outcome**: Develop a purposeful outcome based on insights gained from material exploration.
+
+- **MERIT (M)**: Examine materials more deeply to refine a Materials and Processing Technology outcome by:
+  - **Ongoing Investigation**: Continuously experiment with materials, assessing their properties in more depth.
+  - **Incorporating Stakeholder Feedback**: Use feedback from stakeholders to inform adjustments and refinements to the outcome.
+  - **Refining Material Use**: Improve the purposeful outcome by applying findings from ongoing material investigation.
+
+- **EXCELLENCE (E)**: Evaluate materials critically to justify choices in a purposeful Materials and Processing Technology outcome by:
+  - **Analyzing Material Properties**: Conduct a thorough analysis of material properties to support the outcome's creation.
+  - **Justifying Material Selection**: Provide a clear rationale for choosing specific materials based on their suitability for the intended purpose and outcome.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Materials**: Items, ingredients, or components used in creating the outcome.

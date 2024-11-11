@@ -36,7 +36,7 @@ For teachers, Compass provides a foundation for objective, standards-based feedb
 
 Compass tackles the challenge of creating effective LLM-based educational support by dividing it into key components:
 
-### 1. General Educational ChatGPT
+### 1. General Educational LLM
 
    This component serves as the **base educational guide** within Compass, responsible for general responses that align with best practices in student interaction, ethics, and communication. It includes:
    - Tone and interaction guidance to ensure student-centered support.

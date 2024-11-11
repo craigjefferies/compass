@@ -1,61 +1,82 @@
 # Compass: Guidance and Direction for LLMs as a Teaching Assistant
 
-Compass is a structured framework designed to support the implementation of Large Language Models (LLMs) as virtual teaching assistants within New Zealand's NCEA Achievement Standards. It provides direction and guidance for students as they navigate assessments and for teachers as they provide feedback and support. This framework is adaptable for various subjects, focusing on clear, ethical, and student-centered communication.
+Compass is a framework that adapts Large Language Models (LLMs) as virtual teaching assistants within New Zealand's NCEA Achievement Standards. By blending structured guidelines and ethical principles, Compass helps students gain insight into assessment standards and empowers teachers with clear, constructive feedback tools.
 
 ---
 
-## Purpose
+## Navigation
 
-Compass aims to:
-- Empower **students** to independently explore and understand assessment criteria without receiving direct answers.
-- Enable **teachers** to give structured, insightful feedback aligned with achievement standards.
-- Ensure LLM-based assistance adheres to ethical guidelines, academic integrity, and respectful communication standards.
-
----
-
-## Framework Structure
-
-Compass is divided into key sections that guide LLM behavior:
-
-1. **Identity and Purpose**: Establishes the teaching assistant’s role, focusing on personalized support for students and professional collaboration with teachers.
-
-2. **General Communication and Ethics**: Defines interaction guidelines for both student and teacher roles, including tone, language, and ethical considerations. Instructs the LLM to avoid fabricating information and to seek clarification from the user if details are unclear, enhancing accuracy and reliability.
-
-3. **Grading and Moderation**: Outlines how the assistant can evaluate and moderate student work, providing fair, unbiased feedback based on the achievement standards.
-
-4. **Achievement Standard Specifics**: Allows for customization to any NCEA Achievement Standard by defining key criteria and grading levels.
-
-5. **Achievement Standard Grading Clarifications**: Provides specific grading criteria for each achievement level (Not Achieved, Achieved, Merit, and Excellence), along with tailored guidance to help students reach the next level.
-
-6. **Interaction Guidelines**: Recommends best practices for LLM responses, including the use of real-life examples and clear feedback.
+- **[What and Why](#what-and-why)**: Overview of the purpose and objectives of Compass.
+- **[Philosophy](#philosophy)**: The guiding principles behind Compass.
+- **[Breaking Down the Problem](#breaking-down-the-problem)**: The core components of Compass, from general educational LLM support to assessment-specific clarifications.
+- **[Using Compass](#using-compass)**: Step-by-step guide for teachers and students.
+- **[Example Applications](#example-applications)**: Illustrative cases of Compass in action.
+- **[Contributions and Feedback](#contributions-and-feedback)**: How to contribute or provide feedback.
 
 ---
 
-## Key Features
+## What and Why
 
-- **Adaptable Across Subjects**: Use Compass with any Achievement Standard by customizing the grading criteria and specific terms.
-- **Ethical, Student-Centered Guidance**: Ensures that students are encouraged to think critically and develop their own responses.
-- **Teacher-Focused Feedback**: Helps teachers moderate student work, offering reliable second opinions and detailed feedback aligned with grading standards.
-- **Clarification Prompts**: Instructs the LLM to seek additional information if necessary, minimizing "hallucinations" or inaccurate responses.
+Compass is designed to:
+- **Help students** explore assessment criteria independently, developing skills without direct answers.
+- **Support teachers** with tools for structured, standards-aligned feedback and moderation.
+- **Ensure ethical use of AI**, fostering respect, academic integrity, and alignment with NCEA standards across subjects.
+
+This framework provides a pathway for students and teachers to interact meaningfully with AI-powered guidance, promoting a balanced educational experience that remains rooted in genuine understanding and skill-building.
+
+---
+
+## Philosophy
+
+At its core, Compass is driven by a commitment to **ethical, student-centered learning** and **supportive collaboration** for teachers. The framework encourages a culture of **independent exploration** by guiding students rather than providing direct answers. This approach is grounded in the belief that students can grow academically and personally when supported to think critically, reflect, and refine their understanding with gentle, well-structured guidance.
+
+For teachers, Compass provides a foundation for objective, standards-based feedback, aiming to make assessment transparent, supportive, and focused on continuous improvement.
+
+---
+
+## Breaking Down the Problem
+
+Compass tackles the challenge of creating effective LLM-based educational support by dividing it into key components:
+
+### 1. General Educational ChatGPT
+
+   This component serves as the **base educational guide** within Compass, responsible for general responses that align with best practices in student interaction, ethics, and communication. It includes:
+   - Tone and interaction guidance to ensure student-centered support.
+   - Ethical guidelines to prevent the LLM from generating inaccurate or misleading information.
+   - Role-specific behavior based on whether the user is a student or a teacher.
+
+### 2. Assessment-Specific Instructions
+
+   This section of Compass provides **targeted assistance** for each NCEA Achievement Standard. By adapting the framework to specific standards, it allows the LLM to offer more focused guidance that:
+   - Aligns closely with assessment criteria and achievement levels.
+   - Fosters skills and insights specific to the subject matter and assessment type.
+   - Helps students understand expectations and reach new proficiency levels.
+
+### 3. Assessment Clarifications (Fine-Tuning)
+
+   Compass also includes **fine-tuned clarification prompts** to refine grading support and provide nuanced feedback, helping students progress to higher achievement levels (Not Achieved, Achieved, Merit, Excellence). These prompts:
+   - Highlight criteria for each grading level.
+   - Offer specific guidance on areas for improvement.
+   - Enable teachers to moderate and adjust feedback to meet standards requirements.
 
 ---
 
 ## Using Compass
 
-1. **Define Achievement Standard Specifics**: Start by customizing the [Achievement Standard Specifics] section for the particular standard you are working with.
-2. **Implement Interaction Guidelines**: Refer to Interaction Guidelines for advice on providing examples, real-world applications, and clear feedback.
-3. **Adapt to Student/Teacher Role**: Ensure that the LLM follows the appropriate tone and guidance style based on whether the user is a student or teacher.
+1. **Define Achievement Standards**: Customize [Assessment-Specific Instructions] for the target standard.
+2. **Apply Interaction Guidelines**: Use guidelines to include practical examples and effective feedback.
+3. **Adapt to User Role**: Adjust tone and response style based on whether interacting with a student or teacher.
 
 ---
 
 ## Example Applications
 
-Compass can be applied to help students in various subjects and assessments, offering a supportive framework that promotes understanding and skill development. Teachers can use Compass to moderate work, ensuring objective grading that aligns with NCEA standards.
+Compass can assist in subjects and assessments across the curriculum, providing a supportive framework for understanding and skill development. Teachers can also leverage Compass to ensure objective, standards-based feedback.
 
 ---
 
 ## Contributions and Feedback
 
-This repository is a starting point. Contributions, suggestions, and adaptations for additional subjects and standards are welcome.
+Compass is an open-source project. Contributions, suggestions, and adaptations for additional standards and subjects are welcome.
 
 For feedback or inquiries, please reach out to the project maintainer.

@@ -39,19 +39,30 @@ You can grade and moderate student work:
 ### ACHIEVEMENT STANDARD SPECIFICS
 
 **ACHIEVEMENT_STANDARD_TITLE**: Undertake Effective Development to Make and Trial a Prototype (Technology - AS91357 V3)  
-**ACHIEVEMENT_STANDARD_PURPOSE**: Students demonstrate effective development by making and trialing a prototype, using testing and feedback to refine and justify decisions based on the prototype’s fitness for purpose.  
+**ACHIEVEMENT_STANDARD_PURPOSE**: This achievement standard involves undertaking effective development to make and trial a prototype.
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 2, 6 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
-- **ACHIEVEMENT (A)**: Undertake development by making a prototype, selecting materials and techniques, and using test results and feedback to inform development.
-- **MERIT (M)**: Refine the prototype by evaluating materials, techniques, and incorporating feedback from testing.
-- **EXCELLENCE (E)**: Justify prototype decisions, synthesizing evidence from testing and feedback to support the outcome.
+- **Achievement**: Undertake effective development to make and trial a prototype.
+  - Evaluating materials and/or components to determine their suitability for use in a prototype.
+  - Trialling practical techniques and processes to determine their suitability for use in making a prototype.
+  - Selecting appropriate materials and/or components, tools and equipment; and applying practical techniques and processes to make the prototype.
+  - Using results from testing and stakeholder feedback to inform the making and trialling of the prototype.
+  - Undertaking prototyping to gain specific evidence of the outcome’s fitness for purpose in its intended physical and social environment.
+  - Explaining any decisions to accept and/or modify the prototype.
+- **Achievement with Merit**: Undertake effective development to make and trial a refined prototype.
+  - Evaluating practical techniques and processes to determine their suitability for use in making a prototype.
+  - Using evidence from ongoing testing and stakeholder feedback to inform the making and trialling of the prototype.
+- **Achievement with Excellence**: Undertake effective development to make and trial a justified prototype.
+  - Synthesising evidence from ongoing testing and stakeholder feedback to inform the making and trialling of the prototype.
+  - Justifying any decisions to accept and/or modify the prototype.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
-- **Prototyping**: Developing a model or sample to trial and refine based on feedback and testing.
-- **Testing**: Evaluating the prototype’s performance in its intended context.
-- **Stakeholder Feedback**: Input from users or experts to guide refinement and improvements.
-- **Fitness for Purpose**: Ensuring the prototype meets the needs identified in the brief.
+- **Physical Environment**: The place where the final outcome will be situated.
+- **Social Environment**: Those who will interact with the final outcome.
+- **Prototype**: A completed outcome that is yet to be fully implemented, developed through technological practice and reflective of relevant codes of practice.
+- **Prototyping**: The trialling of the prototype to gather evidence for evaluating the outcome’s fitness for purpose in its intended physical and social environment.
+- **Fitness for Purpose**: The outcome’s ability to address a brief when situated in its intended location. The brief must include a conceptual statement and specifications and may be provided by the teacher or developed by the student.
 
 ---
 

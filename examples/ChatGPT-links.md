@@ -1,24 +1,11 @@
-
-AS91357 Technology
-
-AS91581 Mathematics & Statistics
-
-AS91610 Technology
-
-AS91611 Technology
-
-AS91898 Digital Technologies (AI Focus)
-
-AS91924 English
-
-AS92004 Digital Technologies
-
-AS92005 Digital Technologies
-
-AS92006 Digital Technologies
-
-AS92012 Materials & Process Technologies
-
-AS92013 Materials & Process Technology
-
-US32405 NCEA Writing Co Req
+- [AS91357 Technology](https://chatgpt.com/g/g-l1MWsvzG3-as91357-as2-4-technology-prototype-assistant)
+- [AS91581 Mathematics & Statistics](https://chatgpt.com/g/g-bal66uX2k-as91581-as3-9-bivariate-data-investigation)
+- [AS91610 Technology](https://chatgpt.com/g/g-3y2dh2JFY-as91610-as3-3-technology-conceptual-design)
+- [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)
+- [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)
+- [AS92004 Digital Technologies](https://chatgpt.com/g/g-NBA8QltMa-as92004-as1-1-digital-technologies-assistant)
+- [AS92005 Digital Technologies](https://chatgpt.com/g/g-sZ2YYNNGx-as92005-as1-2-digital-technology-outcome-assistant)
+- [AS92006 Digital Technologies](https://chatgpt.com/g/g-MRbbheEY5-92006-as1-3-digital-technology-hci-assistant)
+- [AS92012 Materials & Process Technologies](https://chatgpt.com/g/g-LKFQMsC98-as92012-as1-1-mpt-outcome-development-assistant)
+- [AS92013 Materials & Process Technology](https://chatgpt.com/g/g-EUuwuAjWy-as92103-as1-2-mpt-experiment-with-materials)
+- [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)

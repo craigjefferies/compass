@@ -43,9 +43,17 @@ You can grade and moderate student work:
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 1, 6 Credits  
 
 **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+
 - **ACHIEVEMENT (A)**: Develop a materials and processing technology outcome in an authentic context, ensuring it meets specified requirements in a brief.
+  - **Creating a fit-for-purpose outcome** for a person, whānau, or community, using a brief with specifications.
+
 - **MERIT (M)**: Refine the outcome by applying feedback from multiple stakeholders to improve fitness for purpose.
+  - **Applying stakeholder feedback** to inform the development of the outcome for a person, whānau, or community.
+  - **Explaining decisions** that inform the improvement of the outcome's fitness for purpose.
+
 - **EXCELLENCE (E)**: Evaluate the outcome, analyzing stakeholder feedback and assessing fitness for purpose within the specified context.
+  - **Analyzing how stakeholder feedback informed the development** of the outcome for a person, whānau, or community.
+  - **Evaluating the outcome against the brief with specifications** for fitness for purpose in the actual or modelled intended environment.
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Brief**: A project plan outlining purpose, end user, and specifications for the outcome.

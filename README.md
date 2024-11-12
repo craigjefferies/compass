@@ -53,7 +53,7 @@ Compass tackles the challenge of creating effective LLM-based educational suppor
 
 ### 3. Assessment Clarifications (Fine-Tuning)
 
-   Compass also includes **fine-tuned clarification prompts** to refine grading support and provide nuanced feedback, helping students progress to higher achievement levels (Not Achieved, Achieved, Merit, Excellence). These prompts:
+   Compass also includes **fine-tuned clarification prompts** to refine grading support and provide nuanced feedback often found in Moderation reports and assessment schedules, helping students progress to higher achievement levels (Achieved, Merit, Excellence). These prompts:
    - Highlight criteria for each grading level.
    - Offer specific guidance on areas for improvement.
    - Enable teachers to moderate and adjust feedback to meet standards requirements.

@@ -45,12 +45,12 @@ First lets look at the Fine-Tuning section found within the context window or in
 Each clarification is made up of three elements that serve specific roles in guiding the LLM’s responses:
 
 ### 1. **Evaluation**
-   - **What it Represents**: An overview statement describing what is required to meet the specific grading level.
-   - **Role in Fine-Tuning**: Defines the key expectations of each level (e.g., Not Achieved, Achieved, Merit, Excellence), giving the LLM a simple benchmark to guide feedback.
+   - **What it Represents**: An overview statement describing what is required to meet the specific grading level beyond what is written in the Achievement standard EN's
+   - **Role in Fine-Tuning**: Defines the key expectations of each level (e.g. Achieved, Merit, Excellence), giving the LLM a simple benchmark to guide feedback.
    - **How it Helps**: Ensures the assistant’s feedback stays aligned with NCEA grading standards by setting clear level-specific goals.
 
 ### 2. **Key Indicators**
-   - **What it Represents**: Specific characteristics or qualities that distinguish work at each grading level.
+   - **What it Represents**: Specific characteristics or qualities that distinguish work at each grading level based on moderation reports, context based learning or assessment schedules
    - **Role in Fine-Tuning**: Provides detailed benchmarks for each level that clarify what the assistant should look for in student responses.
    - **How it Helps**: Improves feedback quality by highlighting what’s typical for each level, from “basic description” (Achieved) to “sophisticated analysis” (Excellence). Helps the assistant recognize and reflect on these elements to match NCEA expectations.
 

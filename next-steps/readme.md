@@ -1,0 +1,2 @@
+Due to currently using standard Gen AI interfaces and the inability of setting hyper parameters. 
+So, in a standard prompt maybe including "Please provide a comprehensive, fact-based response to the following question. Focus on well-supported information, include relevant data or sources where possible, and avoid speculative answers. Summarize key points clearly and provide a balanced perspective on the topic"

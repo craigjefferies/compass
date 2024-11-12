@@ -10,3 +10,5 @@
 - [AS92012 Materials & Process Technologies](https://chatgpt.com/g/g-LKFQMsC98-as92012-as1-1-mpt-outcome-development-assistant)
 - [AS92013 Materials & Process Technology](https://chatgpt.com/g/g-EUuwuAjWy-as92013-as1-2-mpt-experiment-with-materials)
 - [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)
+- [US32406 NCEA Numeracy Co Req](https://chatgpt.com/g/g-uPOg0tjNM-us32406-numeracy-co-req-assistant)
+

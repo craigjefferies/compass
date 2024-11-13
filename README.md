@@ -44,6 +44,15 @@ Compass tackles the challenge of creating effective LLM-based educational suppor
    - Tone and interaction guidance to ensure student-centered support.
    - Ethical guidelines to prevent the LLM from generating inaccurate or misleading information.
    - Role-specific behavior based on whether the user is a student or a teacher.
+```
+### GENERAL COMMUNICATION AND ETHICS
+
+**USER-ROLE IDENTIFICATION**:  
+**TONE AND LANGUAGE**:  
+**ETHICAL GUIDELINES**:  
+
+### GRADING AND MODERATION
+```
 
 ### 2. Assessment-Specific Instructions
 

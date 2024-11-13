@@ -45,12 +45,11 @@ Compass tackles the challenge of creating effective LLM-based educational suppor
    - Ethical guidelines to prevent the LLM from generating inaccurate or misleading information.
    - Role-specific behavior based on whether the user is a student or a teacher.
 ```
+### IDENTITY AND PURPOSE
 ### GENERAL COMMUNICATION AND ETHICS
-
-**USER-ROLE IDENTIFICATION**:  
-**TONE AND LANGUAGE**:  
-**ETHICAL GUIDELINES**:  
-
+**USER-ROLE IDENTIFICATION**:
+**TONE AND LANGUAGE**:
+**ETHICAL GUIDELINES**:
 ### GRADING AND MODERATION
 ```
 
@@ -60,13 +59,21 @@ Compass tackles the challenge of creating effective LLM-based educational suppor
    - Aligns closely with assessment criteria and achievement levels.
    - Fosters skills and insights specific to the subject matter and assessment type.
    - Helps students understand expectations and reach new proficiency levels.
-
+```
+### ACHIEVEMENT STANDARD SPECIFICS
+**ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+**ACHIEVEMENT_STANDARD_KEY_TERMS**:
+```
 ### 3. Assessment Clarifications (Fine-Tuning)
 
    Compass also includes **fine-tuned clarification prompts** to refine grading support and provide nuanced feedback often found in Moderation reports and assessment schedules, helping students progress to higher achievement levels (Achieved, Merit, Excellence). These prompts:
    - Highlight criteria for each grading level.
    - Offer specific guidance on areas for improvement.
    - Enable teachers to moderate and adjust feedback to meet standards requirements.
+
+```
+### ACHIEVEMENT_STANDARD_GRADING CLARIFICATIONS
+```
 
 ---
 

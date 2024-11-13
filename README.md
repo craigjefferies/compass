@@ -1,6 +1,6 @@
 # Compass
 New here? Start by experiementing with samples in [chatGPT](https://github.com/craigjefferies/compass/blob/main/ChatGPT-links.md)
-## Guidance and Direction for LLMs as a Teaching Assistant
+## Guidance and Direction for LLMs as an NCEA Teaching Assistant
 
 Compass is a framework that aligns Large Language Models (LLMs) to educational needs. it guides and directs LLMS to be virtual teaching assistants within New Zealand's NCEA Achievement Standards. By blending structured guidelines and ethical principles, Compass helps students gain insight into Achievement standards and empowers teachers with clear, constructive feedback tools.
 

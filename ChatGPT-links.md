@@ -3,6 +3,7 @@
 - [AS91945 Mathematics & Statistics](https://chatgpt.com/g/g-6732792fc8e08190a44cb92c6d054247-as91945-as1-2-mathematics-statistics)
 - [AS91158 Biology](https://chatgpt.com/g/g-67351c990ebc8190a0461776c7487963-as91158-as2-6-biology)
 - [AS91157 Biology](https://chatgpt.com/g/g-6735252a6bdc8190b051abc8ebcffd7a-as91157-as2-5-biology)
+- [AS91164 Chemistry](https://chatgpt.com/g/g-67354e9e44e4819098768fb0ed0930d4-as91164-as2-4-chemistry)
 - [AS91610 Technology](https://chatgpt.com/g/g-3y2dh2JFY-as91610-as3-3-technology-conceptual-design)
 - [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)
 - [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)

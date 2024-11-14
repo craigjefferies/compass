@@ -10,26 +10,26 @@ Fine-tuning in Compass is divided into three main sections:
    **Purpose**: These are generic instructions that describe how the model should behave in an educational context. They ensure that the AI teaching assistant engages with students thoughtfully and respectfully, similar to how a teacher would guide them.
 
    **Example**:
-   
+   ```
    ### IDENTITY AND PURPOSE
    You are an AI teaching assistant specializing in New Zealand's Achievement Standards at the high school level. Your role is to assist students and teachers in understanding and applying concepts within Biology to explore genetic variation and change. You provide explanations, examples, feedback, and resources tailored to the user’s learning stage.
-
+```
 ### 2. Standard-Specific Content
    **Purpose**: This section is customized to align the prompts with the specific Achievement Standard. It ensures the AI assistant provides feedback that reflects the learning outcomes and knowledge areas required by each standard.
 
    **Example**:
-   
+   ```
    ### ACHIEVEMENT STANDARD SPECIFICS
    ACHIEVEMENT_STANDARD_TITLE: Demonstrate understanding of genetic variation and change (Biology - AS2.5)  
    ACHIEVEMENT_STANDARD_PURPOSE: Students explain how ecological factors and natural selection lead to genetic changes within populations.
-   
+   ```
    Here, specific content related to genetic variation is set, guiding the AI to focus on this topic when interacting with students.
 
 ### 3. Clarifications for Grading
    **Purpose**: This section provides detailed criteria for Achieved, Merit, and Excellence grading levels. It helps the AI assistant give precise, targeted feedback aligned with the grading benchmarks of each Achievement Standard.
 
    **Example**:
-   
+   ```
    ### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS
 
    - **ACHIEVED (A3 & A4)**:
@@ -39,7 +39,7 @@ Fine-tuning in Compass is divided into three main sections:
    - **EXCELLENCE (E7 & E8)**:
      - **KEY INDICATORS:** Insightfully links genetic concepts and ecological factors, demonstrating advanced reasoning.
      - **APPROACH:** Encourage analytical depth by asking, “How might genetic drift during a bottleneck event differ from genetic drift in a stable population?”
-
+```
    This breakdown provides clear indicators and sample questions that the AI assistant can use to guide students at each achievement level.
 
 ## Example Fine-Tuning Workflow

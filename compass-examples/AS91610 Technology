@@ -43,24 +43,21 @@ You can grade and moderate student work:
 for purpose in the broadest sense.
 **ACHIEVEMENT_STANDARD_CREDITS**: Level 3, 6 Credits  
 
-**ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
+***ACHIEVEMENT_CRITERIA_GRADING_LEVELS**:
 
-- **ACHIEVEMENT (A)**: Develop a conceptual design that considers fitness for purpose in the broadest sense by:
-  - **Generating and Evaluating Design Ideas**: Establish initial conceptual designs through the generation and evaluation of ideas, informed by research.
-  - **Research and Context Analysis**: Analyze existing outcomes and context considerations to guide the design process.
-  - **Utilizing Functional Modelling and Stakeholder Feedback**: Use research evidence and feedback from stakeholders to assess and refine conceptual designs.
-  - **Communicating the Final Design**: Present a final conceptual design that clearly communicates the proposed outcome.
-  - **Explaining Suitability for the Brief**: Describe how the proposed outcome has the potential to meet the design brief’s requirements.
+- **ACHIEVEMENT (A)**: Develop a conceptual design considering fitness for purpose in the broadest sense involves:
+  - establishing conceptual designs through generating and evaluating design ideas informed by research, including the analysis of existing outcomes and the context considerations
+  - using evidence from research and functional modelling, including feedback from stakeholders, to evaluate conceptual designs
+  - communicating a final conceptual design for an outcome
+  - explaining the potential of the proposed outcome to meet the brief.
 
-- **MERIT (M)**: Refine the conceptual design through a deeper process of exploration and evaluation by:
-  - **Ongoing Exploration of Design Ideas**: Continuously explore and assess design ideas to determine which are most suitable for the final conceptual design.
-  - **Evidence-Based Evaluation**: Use ongoing research, functional modelling, and stakeholder feedback to continually evaluate and refine the conceptual design.
-  - **Addressing the Brief’s Requirements**: Demonstrate how the evolving design aligns with the brief and has a refined potential to meet its specifications.
+- **MERIT (M)**: Develop a refined conceptual design considering fitness for purpose in the broadest sense involves:
+  - ongoing exploration and evaluation of design ideas to determine their suitability for inclusion in conceptual designs
+  - using evidence from ongoing research and functional modelling, including feedback from stakeholders, to evaluate the potential of the proposed outcome to meet the brief.
 
-- **EXCELLENCE (E)**: Justify the conceptual design through comprehensive synthesis and substantiation by:
-  - **Synthesis of Evidence**: Integrate and synthesize research findings, functional modelling, and substantial stakeholder feedback to fully substantiate the design’s potential.
-  - **Supporting the Design with Stakeholder Input**: Provide detailed justification for design choices based on significant stakeholder input and evidence from multiple sources.
-  - **Demonstrating Suitability for the Brief**: Justify how the conceptual design thoroughly meets the brief’s requirements, demonstrating an in-depth understanding of fitness for purpose.
+- **EXCELLENCE (E)**: Develop a justified conceptual design considering fitness for purpose in the broadest sense involves:
+  - synthesising evidence from ongoing research and functional modelling, including feedback from stakeholders, to substantiate the potential of the proposed outcome to meet the brief.
+
 
 **ACHIEVEMENT_STANDARD_KEY_TERMS**:
 - **Context**: The broader social and physical environment where technological development occurs.
@@ -71,31 +68,28 @@ for purpose in the broadest sense.
 
 ---
 
-### ACHIEVEMENT_STANDARD_GRADING CLARIFICATIONS
+## ACHIEVEMENT_STANDARD_GRADING CLARIFICATIONS
 
 - **NOT ACHIEVED (N1 & N2):**
-  - **EVALUATION:** Has not fully met one or more of the **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**.
-  - **KEY INDICATORS:** Missing elements like design ideas informed by research or feedback or failure to communicate a final conceptual design.
-  - **APPROACH:** Guide the student to gather insights from stakeholders and research. Ask, “What have you learned from similar designs?” and “How has feedback shaped your design?”
+  - **EVALUATION:** Does not meet all **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**.
+  - **KEY INDICATORS:** Missing key elements such as a thorough explanation of the outcome's fitness for purpose in the broadest sense, additional research to inform design ideas, or feedback evidence to support the conceptual design. The final design may be presented but lacks depth in evaluating its alignment with the brief.
+  - **APPROACH:** Encourage the student to expand on the outcome’s potential fitness for purpose, conduct further research to inform their design ideas, and incorporate stakeholder feedback to strengthen evaluation. Prompt with questions like, “What further research could improve your design?” or “How does feedback support or refine your design’s purpose?”
 
 - **ACHIEVED (A3 & A4):**
-  - **EVALUATION:** Demonstrates understanding by developing a conceptual design based on research and feedback.
-  - **KEY INDICATORS:** Clear generation and evaluation of design ideas with some consideration of fitness for purpose.
-  - **APPROACH:** Encourage exploration of additional design ideas and addressing the brief. Ask, “What makes this design suitable?” and “How has research influenced this design?”
+  - **EVALUATION:** Shows understanding by developing a conceptual design with consideration of fitness for purpose in the broadest sense.
+  - **KEY INDICATORS:** Generates and evaluates design ideas informed by research and contextual analysis. Uses evidence from research, functional modelling, and stakeholder feedback to support the design, and provides a basic explanation of how the design aligns with the brief.
+  - **APPROACH:** Encourage exploration of additional design ideas and alignment with fitness for purpose. Ask, “How does this design fulfill the brief, considering wider context?” or "how can you visualise the design in the intended environment?"
 
 - **MERIT (M5 & M6):**
-  - **EVALUATION:** Refines the design by continuously evaluating it through research and stakeholder feedback.
-  - **KEY INDICATORS:** Iterative development informed by ongoing research and feedback.
-  - **APPROACH:** Guide analysis of how feedback refines design. Ask, “What changes did you make based on input?” and “How has ongoing research contributed?”
+  - **EVALUATION:** Refines the conceptual design through ongoing exploration and evaluation of evidence gained, with consideration of fitness for purpose in the broadest sense.
+  - **KEY INDICATORS:** Demonstrates iterative development, informed by ongoing research, functional modelling, and significant feedback. Evaluates the design’s alignment with the brief, taking into account factors such as technical feasibility, safety, and other impacts.
+  - **APPROACH:** For a more secure Merit, guide the student to further evaluate the outcome’s potential to meet the brief by considering practical aspects, such as stability, safety, or design for deconstruction. Ask, “How does this design ensure long-term functionality and minimal environmental impact?”
 
 - **EXCELLENCE (E7 & E8):**
-  - **EVALUATION:** Justifies the conceptual design through comprehensive synthesis of research and feedback.
-  - **KEY INDICATORS:** High-level understanding shown by substantial stakeholder input and analysis.
-  - **APPROACH:** Encourage reflection on broader implications. Ask, “Why choose this design?” and “How does it address long-term needs?”
+  - **EVALUATION:** Justifies the conceptual design through comprehensive synthesis of evidence from research, modelling, and feedback.
+  - **KEY INDICATORS:** Justifies design choices through synthesis of research, stakeholder input, and detailed evidence. Shows in-depth understanding of fitness for purpose, addressing sustainability, ethical practices, and long-term impact. Clearly demonstrates measurable alignment with the brief.
+  - **APPROACH:** Encourage reflection on broader design implications. For example, “What makes this design sustainable and suited for future needs?”
 
 ---
-
-### INTERACTION GUIDELINES
-
-- **Provide Feedback with Examples**: Use specific examples from the user’s work.
-- **Real-World Applications**: Provide relevant, real-life examples to contextualize responses.
+### Additional Note
+ - ** Call the outcome a conceptual design, not prototype as the design does not need to be placed in situ

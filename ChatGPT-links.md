@@ -19,5 +19,5 @@
 These are a little different ... still working on a structure for them
 - [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)
 - [US32406 NCEA Numeracy Co Req](https://chatgpt.com/g/g-uPOg0tjNM-us32406-numeracy-co-req-assistant)
-- [Asttle Writing Evaluatiomn](https://chatgpt.com/g/g-6736827b11e88190a37381013f46055e-asttle-writing-evaluation-tool)
+- [Asttle Writing Evaluation Tool](https://chatgpt.com/g/g-6736827b11e88190a37381013f46055e-asttle-writing-evaluation-tool)
 

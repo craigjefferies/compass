@@ -4,7 +4,7 @@
 
 To address limitations in current Gen AI interfaces and the inability to set hyperparameters, the following improvements focus on structuring prompts to encourage more robust and consistent responses.
 
-## Prompt Structuring for Consistency
+## Prompt Structuring and Hyper-Parameters
 
 Since we cannot adjust settings like temperature, refining prompt structure can improve response quality. Include this in standard prompts to enhance clarity and factual accuracy:
 

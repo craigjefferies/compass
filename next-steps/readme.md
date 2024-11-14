@@ -1,21 +1,25 @@
-# Idea and Improvements
+# Project Improvements and Key Ideas
 
-Due to currently using standard Gen AI interfaces and the inability to set hyperparameters, consider structuring prompts to encourage robust responses.
+## Overview
 
-In a standard prompt, include the following:
+**Challenge**: During testing, the system struggles particularly with the **Achieved-Merit grade boundary**. This issue stems from the model's difficulty in interpreting taxonomy-based grading (e.g., accurately identifying "explain" level ideas). The following improvements focus on refining the model's prompts to guide it toward clearer, more robust grading distinctions.
 
-> "Please provide a comprehensive, fact-based response to the following question. Focus on well-supported information, include relevant data or sources where possible, and avoid speculative answers. Summarize key points clearly and provide a balanced perspective on the topic."
+## Prompt Structuring for Consistency
 
-This phrasing can help guide the model to deliver well-considered, factual, and thorough answers, even when hyperparameters like temperature cannot be manually adjusted.
+As we currently use standard Gen AI interfaces without hyperparameter adjustments, refining prompt structure can improve response quality. Include this in standard prompts to enhance clarity and factual accuracy:
 
-## Additional Ideas and Improvements
+> "Please provide a clear, well-supported response. Focus on fact-based information, use relevant data or sources where possible, and avoid speculation. Summarize key points and offer a balanced view."
 
-### Measuring Accuracy and Grading Ability
+This prompt aims to guide the model in delivering precise, factual answers, even when we cannot manually adjust settings like temperature.
 
-To quantify the model's grading accuracy, we could consider the following approaches:
+## Additional Improvements
 
-- **Collate Real-World Samples from Schools**: Gathering a diverse set of student work from schools would enable us to evaluate the model against real grading standards and feedback from educators.
+### 1. Enhancing Grading Accuracy
+
+To better assess and improve the model’s grading ability, consider the following approaches:
+
+- **Real-World Samples Collection**: Gather a set of student work samples from schools. Comparing model responses to educator feedback will help gauge accuracy against authentic grading criteria.
   
-- **Generate Synthetic Data for Controlled Testing**: Creating synthetic data with predefined criteria and grading labels could allow for structured feedback loops. This synthetic dataset can simulate a wide range of grading scenarios, providing insights into the model’s grading consistency and accuracy.
+- **Synthetic Data for Testing**: Develop synthetic data with clear grading labels and criteria. This controlled testing environment allows for a structured feedback loop, highlighting areas for improvement in grading consistency.
 
-By using both real-world samples and synthetic data, we can achieve a balanced approach for evaluating grading ability and improving the model’s accuracy and reliability in educational settings.
+Combining real-world samples and synthetic data creates a balanced approach to evaluate and refine the model’s accuracy, especially at critical grade boundaries like Achieved-Merit.

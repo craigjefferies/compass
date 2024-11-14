@@ -4,6 +4,7 @@
 - [AS91158 Biology](https://chatgpt.com/g/g-67351c990ebc8190a0461776c7487963-as91158-as2-6-biology)
 - [AS91157 Biology](https://chatgpt.com/g/g-6735252a6bdc8190b051abc8ebcffd7a-as91157-as2-5-biology)
 - [AS91164 Chemistry](https://chatgpt.com/g/g-67354e9e44e4819098768fb0ed0930d4-as91164-as2-4-chemistry)
+- [AS91911 Chemistry](https://chatgpt.com/g/g-6735732600d0819086bad4430ca2c7e5-as91911-as2-2-chemistry)
 - [AS91172 Physics](https://chatgpt.com/g/g-67355585c0f88190bd49e3b1cd987617-as91172-as2-5-physics)
 - [AS91610 Technology](https://chatgpt.com/g/g-3y2dh2JFY-as91610-as3-3-technology-conceptual-design)
 - [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)

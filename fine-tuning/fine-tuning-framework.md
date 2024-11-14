@@ -1,71 +1,53 @@
-# Fine Tuning: 
-## Using Clarifications for Better Alignment with NCEA Standards
+# Fine-Tuning Framework for Compass
 
-The **Clarifications** section refines the LLM’s feedback using **Evaluation**, **Key Indicators**, and **Approach** for each grading level. Each element provides a focused way to ensure the assistant’s feedback aligns closely with NCEA grading criteria and standards.
+This guide explains how to fine-tune custom GPT models within the **Compass** framework. Each model is tailored to provide NCEA-aligned feedback, assisting students with specific Achievement Standards in New Zealand’s educational framework.
 
----
+## Fine-Tuning Structure
 
-### Purpose of Fine Tuning
+Fine-tuning in Compass is divided into three main sections:
 
-Fine-tuning allows Compass to:
-1. **Match NCEA Standards**: Ensure the assistant's feedback is consistent with official criteria and expectations.
-2. **Provide Precise Feedback**: Guide the LLM to respond in a way that reflects each level’s requirements, helping students understand how to improve.
-3. **Maintain Consistency**: Increase accuracy by using clear benchmarks across different grading levels.
+### 1. Static Instructions
+   **Purpose**: These are generic instructions that describe how the model should behave in an educational context. They ensure that the AI teaching assistant engages with students thoughtfully and respectfully, similar to how a teacher would guide them.
 
----
+   **Example**:
+   
+   ### IDENTITY AND PURPOSE
+   You are an AI teaching assistant specializing in New Zealand's Achievement Standards at the high school level. Your role is to assist students and teachers in understanding and applying concepts within Biology to explore genetic variation and change. You provide explanations, examples, feedback, and resources tailored to the user’s learning stage.
 
-## Fine-Tuning Elements
+### 2. Standard-Specific Content
+   **Purpose**: This section is customized to align the prompts with the specific Achievement Standard. It ensures the AI assistant provides feedback that reflects the learning outcomes and knowledge areas required by each standard.
 
-First lets look at the Fine-Tuning section found within the context window or instruction set for each assessment.
+   **Example**:
+   
+   ### ACHIEVEMENT STANDARD SPECIFICS
+   ACHIEVEMENT_STANDARD_TITLE: Demonstrate understanding of genetic variation and change (Biology - AS2.5)  
+   ACHIEVEMENT_STANDARD_PURPOSE: Students explain how ecological factors and natural selection lead to genetic changes within populations.
+   
+   Here, specific content related to genetic variation is set, guiding the AI to focus on this topic when interacting with students.
 
-```
-### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS
+### 3. Clarifications for Grading
+   **Purpose**: This section provides detailed criteria for Achieved, Merit, and Excellence grading levels. It helps the AI assistant give precise, targeted feedback aligned with the grading benchmarks of each Achievement Standard.
 
-- **NOT ACHIEVED (N1 & N2):**
-  - **EVALUATION:** Has not fully met one or more of the **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**.
-  - **KEY INDICATORS:** Limited or unclear description of the outcome's purpose or basic functionality. Lacks sufficient testing or refinement.
-  - **APPROACH:** Guide the student to clearly articulate the purpose of the project, outline specific user needs, and conduct initial testing. Prompt with questions such as, “What’s the main goal of your outcome?” and “How can testing reveal areas to improve?”
+   **Example**:
+   
+   ### ACHIEVEMENT_STANDARD_GRADING_CLARIFICATIONS
 
-- **ACHIEVED (A3 & A4):**
-  - **EVALUATION:** Demonstrates understanding by developing an outcome that meets basic requirements and functions as intended.
-  - **KEY INDICATORS:** Shows basic functionality that aligns with user needs, includes testing, and addresses fundamental requirements.
-  - **APPROACH:** Encourage the student to refine their outcome by identifying and incorporating basic feedback. Use questions like, “What did you discover during testing that could improve the outcome?” and “How can you ensure it meets user requirements?”
+   - **ACHIEVED (A3 & A4)**:
+     - **KEY INDICATORS:** Provides clear definitions, uses Punnett squares for monohybrid or dihybrid inheritance, and describes genetic variation with examples, including the founder effect or genetic bottlenecks.
+     - **APPROACH:** Prompt with questions like, “How does mutation introduce new alleles into a gene pool?” or “What is the significance of the 2:1 phenotype ratio in lethal alleles?”
+   
+   - **EXCELLENCE (E7 & E8)**:
+     - **KEY INDICATORS:** Insightfully links genetic concepts and ecological factors, demonstrating advanced reasoning.
+     - **APPROACH:** Encourage analytical depth by asking, “How might genetic drift during a bottleneck event differ from genetic drift in a stable population?”
 
-- **MERIT (M5 & M6):**
-  - **EVALUATION:** Refines the outcome by applying conventions and making improvements based on test results.
-  - **KEY INDICATORS:** Demonstrates improved functionality by responding to testing insights and refining aspects based on digital domain conventions.
-  - **APPROACH:** Guide the student to focus on specific conventions that enhance the outcome. Ask questions like, “What conventions from this field could you apply to improve functionality?” and “How did user feedback inform your recent changes?”
+   This breakdown provides clear indicators and sample questions that the AI assistant can use to guide students at each achievement level.
 
-- **EXCELLENCE (E7 & E8):**
-  - **EVALUATION:** Enhances the outcome with sophisticated testing, refining based on trials to meet high standards of user functionality and experience.
-  - **KEY INDICATORS:** Shows advanced understanding and refinement, optimizing the outcome based on extensive testing and user feedback.
-  - **APPROACH:** Encourage the student to explore the deeper aspects of user experience and functionality. Use questions like, “What adjustments will have the most impact on user satisfaction?” and “How does this enhancement address a specific user need?”
- 
-```
-Each clarification is made up of three elements that serve specific roles in guiding the LLM’s responses:
+## Example Fine-Tuning Workflow
 
-### 1. **Evaluation**
-   - **What it Represents**: An overview statement describing what is required to meet the specific grading level beyond what is written in the Achievement standard EN's
-   - **Role in Fine-Tuning**: Defines the key expectations of each level (e.g. Achieved, Merit, Excellence), giving the LLM a simple benchmark to guide feedback.
-   - **How it Helps**: Ensures the assistant’s feedback stays aligned with NCEA grading standards by setting clear level-specific goals.
+1. **Start with Static Instructions**: Set up the general behavior guidelines to ensure the AI assistant is approachable and supportive.
+   
+2. **Add Standard-Specific Content**: Customize this section to align with the Achievement Standard’s specific requirements, like focusing on genetic variation for a biology standard.
 
-### 2. **Key Indicators**
-   - **What it Represents**: Specific characteristics or qualities that distinguish work at each grading level based on moderation reports, context based learning or assessment schedules
-   - **Role in Fine-Tuning**: Provides detailed benchmarks for each level that clarify what the assistant should look for in student responses.
-   - **How it Helps**: Improves feedback quality by highlighting what’s typical for each level, from “basic description” (Achieved) to “sophisticated analysis” (Excellence). Helps the assistant recognize and reflect on these elements to match NCEA expectations.
+3. **Refine Grading Clarifications**: Use detailed descriptors for Achieved, Merit, and Excellence levels to guide the model’s feedback. Test responses to ensure they align well with NCEA grading.
 
-### 3. **Approach**
-   - **What it Represents**: Suggested prompts or questions to guide students in improving their work.
-   - **Role in Fine-Tuning**: Provides the assistant with ways to prompt the student toward deeper thinking or more specific improvements, based on where they currently stand.
-   - **How it Helps**: Encourages the LLM to help students reach the next level by asking guiding questions. This makes feedback more interactive and supportive, encouraging students to reflect and revise their responses based on the specific level requirements.
-
----
-
-## How to Apply Fine-Tuning
-
-When fine-tuning, you can:
-1. **Use Evaluation to Set the Tone**: Ensure each level’s response aligns with its expectations.
-2. **Apply Key Indicators for Specificity**: Guide the assistant to comment on particular strengths or areas needing improvement.
-3. **Leverage Approach for Constructive Feedback**: Encourage students to consider specific aspects that will help them reach higher achievement levels.
-
-By refining these elements, Compass ensures that feedback is not only accurate but also actionable, supporting students in their understanding and progress according to NCEA standards.
+By structuring fine-tuning this way, Compass creates AI assistants that are not only educational but also aligned with NCEA Achievement Standards, enhancing the support students receive in their studies.

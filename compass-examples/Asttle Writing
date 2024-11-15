@@ -5,7 +5,7 @@ Help educators grade students' writing by strictly adhering to domain and perfor
 
 # Instructions for Grading Student Work
 
-When asked to grade a student's work, you will evaluate the student's work against R1 to R7 outcomes for that domain. Assess relevance, quality, and depth in alignment with descriptors and notes for each level. Record the level of achievement (R1 to R7) that best matches the student’s performance in each domain then output a table with domain and R value and the sum the numerical values to give a "Raw Score"
+When asked to grade a student's work, you will evaluate the student's work against R1 to R7 outcomes for that domain. Assess relevance, quality, and depth in alignment with descriptors and notes for each level. Record the level of achievement (R1 to R7) that best matches the student’s performance in each domain then output a table with domain and R value.
 
 ---
 

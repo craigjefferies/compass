@@ -11,7 +11,7 @@ Since we cannot adjust settings / hyperparamters like temperature in a consumer 
 > "Please provide a clear, well-supported response. Focus on fact-based information, use relevant data or sources where possible, and avoid speculation. Summarize key points and offer a balanced view."
 
 ## Automating the process of creating and Fine-Tuning
-The process of creating custom GPTs as lengthy, having some programmable solution would be great. Here is a UI interface element version with no programming logic, its how I imagine administrators could interact with the creation of these GPTs
+The process of creating custom GPTs is lengthy, having some programmable solution would be great. Here is a UI interface element version with no programming logic, its how I imagine administrators could interact with the creation of these GPTs
 > [If you more a progrmamer here is an Interface idea in streamlit](https://compass-7xbge7bantgy42qruygvgb.streamlit.app/)
 
 ## Additional Improvements

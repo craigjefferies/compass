@@ -25,3 +25,5 @@ Compass helps educators:
   - **Static Instructions**: Generic instructions that describe how the LLM is to behave in an educational context.
   - **Standard-Specific Content**: Tailor prompts to the unique requirements of each Achievement Standard.
   - **Clarifications for Grading**: Detailed criteria for Achieved, Merit, and Excellence levels, which help the GPT respond with clarity and accuracy.
+
+ [If you more a progrmamer here is an Interface idea in streamlit](https://compass-7xbge7bantgy42qruygvgb.streamlit.app/)

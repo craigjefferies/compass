@@ -142,7 +142,7 @@ def settings():
 
     st.subheader("About")
     st.write("Version 1.0.0")
-    st.write("© 2023 Compass Education")
+    st.write("© Craig Jefferies")
 
 if __name__ == "__main__":
     main()

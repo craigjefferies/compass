@@ -4,7 +4,7 @@
 
 **Compass** is a framework designed to help educators in New Zealand create custom GPT models aligned with **Achievement Standards** within the NCEA (National Certificate of Educational Achievement) framework. This tool guides teachers in crafting AI-driven learning assistants tailored to specific assessment standards, providing students with interactive support that matches the learning outcomes and grading criteria of each Achievement Standard.
 
-[**Direct Links to ChatGPT models to play with for free**](https://github.com/craigjefferies/compass/blob/main/ChatGPT-links.md)
+[#**Direct Links to ChatGPT models to play with for free**](https://github.com/craigjefferies/compass/blob/main/ChatGPT-links.md)
 
 ## Why Use Compass?
 

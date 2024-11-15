@@ -124,7 +124,7 @@ Skill focus: the difficulty of words used and accuracy of spelling
 |----------|------------|-------|
 | R1       | Uses some letters to represent meaning | Strings may not convey meaning |
 | R2       | Spells few high-frequency words correctly | Phoneme-grapheme relations |
-| R3       | Spells range of high-frequency words, some attempts at complex | Over-generalizations |
+| R3       | Spells range of high-frequency words, attempts at complex | Over-generalizations |
 | R4       | Spells wide range of high-frequency, attempts at difficult words | Basic rules applied |
 | R5       | High-frequency and some difficult words spelled correctly | Close approximations |
 | R6       | High-frequency and difficult words with few errors | Knowledge of spelling rules evident |

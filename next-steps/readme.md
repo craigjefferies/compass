@@ -6,7 +6,7 @@
 
 ## Prompt Structuring and Hyper-Parameters
 
-Since we cannot adjust settings like hyperparamters like temperature in a consumer facing product like ChatPGT, refining prompt structure could improve response quality. Playing with the generic educational prompt set may provide improvements, example:
+Since we cannot adjust settings / hyperparamters like temperature in a consumer facing product like ChatPGT, refining prompt structure could improve response quality. Playing with the generic educational prompt set may provide improvements, example:
 
 > "Please provide a clear, well-supported response. Focus on fact-based information, use relevant data or sources where possible, and avoid speculation. Summarize key points and offer a balanced view."
 

@@ -1,6 +1,7 @@
 - [AS91357 Technology](https://chatgpt.com/g/g-l1MWsvzG3-as91357-as2-4-technology-prototype-assistant)
 - [AS91581 Mathematics & Statistics](https://chatgpt.com/g/g-bal66uX2k-as91581-as3-9-bivariate-data-investigation)
 - [AS91945 Mathematics & Statistics](https://chatgpt.com/g/g-6732792fc8e08190a44cb92c6d054247-as91945-as1-2-mathematics-statistics)
+- [AS91944 Mathematics and Statistics](https://chatgpt.com/g/g-673ac82a687c8191a7f62840d9ce9c81-as91944-as1-1-mathematics-and-statistics)
 - [AS91264 Mathematics & Statistics](https://chatgpt.com/g/g-673664d18dfc819084b6ce1622ae91b2-as91264-as2-9-mathematics-statistics)
 - [AS91158 Biology](https://chatgpt.com/g/g-67351c990ebc8190a0461776c7487963-as91158-as2-6-biology)
 - [AS91157 Biology](https://chatgpt.com/g/g-6735252a6bdc8190b051abc8ebcffd7a-as91157-as2-5-biology)

@@ -10,6 +10,7 @@
 - [AS91172 Physics](https://chatgpt.com/g/g-67355585c0f88190bd49e3b1cd987617-as91172-as2-5-physics)
 - [AS91610 Technology](https://chatgpt.com/g/g-3y2dh2JFY-as91610-as3-3-technology-conceptual-design)
 - [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)
+- [AS91893 Digital Technologies](https://chatgpt.com/g/g-673bad7663c481919c8f736ef3ef9025-as91893-as2-4-digital-technologies)
 - [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)
 - [AS92004 Digital Technologies](https://chatgpt.com/g/g-NBA8QltMa-as92004-as1-1-digital-technologies-assistant)
 - [AS92005 Digital Technologies](https://chatgpt.com/g/g-sZ2YYNNGx-as92005-as1-2-digital-technology-outcome-assistant)

@@ -11,7 +11,6 @@
 
 - [Why Use Compass?](#why-use-compass)
 - [Key Features](#key-features)
-- [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
@@ -38,25 +37,6 @@ Compass helps educators:
   - **Static Instructions:** Generic instructions that define the LLM's behavior in an educational context.
   - **Standard-Specific Content:** Tailored prompts addressing the unique requirements of each Achievement Standard.
   - **Clarifications for Grading:** Detailed criteria for Achieved, Merit, and Excellence levels, enhancing the GPT's ability to respond with clarity and accuracy.
-
-## Installation
-
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/craigjefferies/compass.git
-    cd compass
-    ```
-
-2. **Install Dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Set Up Environment Variables:**
-
-    Create a `.env` file based on the provided `.env.example` and add your configuration settings.
 
 ## Getting Started
 

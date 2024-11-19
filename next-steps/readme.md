@@ -7,11 +7,14 @@ Since we cannot adjust settings / hyperparamters like temperature in a consumer 
 
 > "Please provide a clear, well-supported response. Focus on fact-based information, use relevant data or sources where possible, and avoid speculation. Summarize key points and offer a balanced view."
 
-## 2.Automating the process of creating and Fine-Tuning
+## 2.Parsing NZQA Achievement Standard PDF's
+Would be very useful to be able to parse the AS PDF's to get exactly the information required in the correct output structure needed for the framework
+
+## 3.Automating the process of creating and Fine-Tuning
 The process of creating custom GPTs is lengthy, having some programmable solution would be great. Here is a UI interface element version with no programming logic, its how I imagine administrators could interact with the creation of these GPTs
 > [If you more a developer here is an static Interface idea in streamlit](https://compass-7xbge7bantgy42qruygvgb.streamlit.app/)
 
-## 3.Enhancing Grading Accuracy
+## 4.Enhancing Grading Accuracy
 
 
 **Challenge**: During testing, the system struggles particularly with the **Achieved-Merit grade boundary**. This issue stems from the model's difficulty in interpreting taxonomy-based grading, such as accurately identifying "explain" level ideas.

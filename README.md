@@ -12,7 +12,6 @@
 - [Why Use Compass?](#why-use-compass)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
-- [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -27,16 +26,16 @@ Compass helps educators:
 
 ## Key Features
 
-- **Comprehensive Instructional Structure:** Compass provides an effective framework for creating instructional Language Learning Models (LLMs) tailored to NCEA Achievement Standards. This structured approach ensures that AI-driven interactions are aligned with specific educational goals and grading criteria.
+- **General Instruction Set for Educational LLMs:** Compass offers a robust set of general instructions that define the foundational behavior of Language Learning Models (LLMs) in an educational context. These instructions ensure that the AI interacts with students in a manner that is supportive, informative, and aligned with best teaching practices.
 
-- **Achievement Standard Integration:** Align each GPT model with specific NCEA Achievement Standards, allowing the AI to provide feedback based on real grading criteria (Achieved, Merit, and Excellence).
+- **Achievement Standard-Specific Instruction Sets:** Tailor each GPT model to specific NCEA Achievement Standards by integrating targeted instruction sets. This customization allows the AI to address the unique requirements and learning outcomes of each standard, providing relevant and precise feedback based on the criteria for Achieved, Merit, and Excellence.
 
-- **Adaptable Prompts and Fine-Tuning:** Customize prompts and responses to fit various Achievement Standards. This ensures interactions remain relevant to specific learning outcomes and criteria.
+- **Fine-Tuning Framework for Enhanced Alignment:** Utilize Compass's modular fine-tuning framework to adjust and refine the LLM's responses. This feature enables educators to tweak the AI's interactions, ensuring that the feedback and guidance provided are closely aligned with the nuanced expectations of NCEA assessments. The fine-tuning process is organized into three main sections:
+  - **Static Instructions:** Define the overarching behavior and interaction style of the LLM within an educational setting.
+  - **Standard-Specific Content:** Incorporate prompts and responses tailored to the specific requirements of each Achievement Standard.
+  - **Clarifications for Grading:** Provide detailed criteria and guidelines for each grading level (Achieved, Merit, Excellence) to enhance the accuracy and clarity of the AI's feedback.
 
-- **Modular Fine-Tuning Framework:** The fine-tuning setup is organized into three main sections:
-  - **Static Instructions:** Generic instructions that define the LLM's behavior in an educational context.
-  - **Standard-Specific Content:** Tailored prompts addressing the unique requirements of each Achievement Standard.
-  - **Clarifications for Grading:** Detailed criteria for Achieved, Merit, and Excellence levels, enhancing the GPT's ability to respond with clarity and accuracy.
+
 
 ## Getting Started
 
@@ -44,19 +43,4 @@ Compass helps educators:
    - Define the NCEA Achievement Standards you wish to align with.
    - Customize prompts and responses within the `config` directory.
 
-2. **Run the Framework:**
 
-    ```bash
-    npm start
-    ```
-
-3. **Access the AI Assistant:**
-   - Use the provided [ChatGPT links](https://github.com/craigjefferies/compass/blob/main/ChatGPT-links.md) to interact with your custom models.
-
-## Usage Examples
-
-Provide examples or scenarios demonstrating how educators can use Compass to create and deploy AI assistants aligned with specific Achievement Standards.
-
-```bash
-# Example command to start a specific model
-npm run start -- --model standard-xyz

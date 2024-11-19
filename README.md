@@ -37,10 +37,4 @@ Compass helps educators:
 
 
 
-## Getting Started
-
-1. **Configure Achievement Standards:**
-   - Define the NCEA Achievement Standards you wish to align with.
-   - Customize prompts and responses within the `config` directory.
-
 

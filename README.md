@@ -11,10 +11,6 @@
 
 - [Why Use Compass?](#why-use-compass)
 - [Key Features](#key-features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Why Use Compass?
 

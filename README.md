@@ -26,10 +26,11 @@ Compass helps educators:
 
 - **Achievement Standard-Specific Instruction Sets:** Tailor each GPT model to specific NCEA Achievement Standards by integrating targeted instruction sets. This customization allows the AI to address the unique requirements and learning outcomes of each standard, providing relevant and precise feedback based on the criteria for Achieved, Merit, and Excellence.
 
-- **Fine-Tuning Framework for Enhanced Alignment:** Utilize Compass's modular fine-tuning framework to adjust and refine the LLM's responses. This feature enables educators to tweak the AI's interactions, ensuring that the feedback and guidance provided are closely aligned with the nuanced expectations of NCEA assessments. The fine-tuning process is organized into three main sections:
-  - **Static Instructions:** Define the overarching behavior and interaction style of the LLM within an educational setting.
-  - **Standard-Specific Content:** Incorporate prompts and responses tailored to the specific requirements of each Achievement Standard.
-  - **Clarifications for Grading:** Provide detailed criteria and guidelines for each grading level (Achieved, Merit, Excellence) to enhance the accuracy and clarity of the AI's feedback.
+- **Fine-Tuning Framework for Enhanced Alignment:** Utilize Compass's modular fine-tuning framework to adjust and refine the LLM's responses. This feature enables educators to tweak the AI's interactions, ensuring that the feedback and guidance provided are closely aligned with the nuanced expectations of NCEA assessments. The fine-tuning process called "clarifications" guides the LLMs evaluation of grade boundaries, key indicators often found in moderation reports and how to approach feedback:
+  - **N1 & N2** EVALUATION, KEY INDICATORS, APPROACH
+  - **A3 & A4** EVALUATION, KEY INDICATORS, APPROACH
+  - **M5 & M6** EVALUATION, KEY INDICATORS, APPROACH
+  - **E7 & E8** EVALUATION, KEY INDICATORS, APPROACH
 
 
 

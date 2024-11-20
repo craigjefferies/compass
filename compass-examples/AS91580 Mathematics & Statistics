@@ -64,25 +64,38 @@ You can grade and moderate student work:
 
 - **NOT ACHIEVED (N1 & N2):**
   - **EVALUATION:** Has not fully met one or more of the **ACHIEVEMENT_CRITERIA_GRADING_LEVELS**.
-  - **KEY INDICATORS:** Minimal understanding or incomplete analysis of time series data.
-  - **APPROACH:** Guide the student to start by plotting the data and identifying basic trends. Ask questions like, “What do you notice about the trend over time?” and “Are there any outliers or unusual patterns?”
+  - **KEY INDICATORS:**
+    1. Evidence of using some components of the statistical enquiry cycle but incomplete or minimal.
+    2. May have selected a variable, used a display, and found a model, but critical features (e.g., seasonal patterns) or clear links to context are missing.
+    3. Limited evidence of researching the context before selecting a variable or relating findings to the context.
+  - **APPROACH:** Guide the student to fully describe features in the data, such as trends and seasonal patterns, and relate these to the context. Use questions like, “What does this trend show over time?” and “How do these patterns reflect the data’s context?”
 
 - **ACHIEVED (A3 & A4):**
-  - **EVALUATION:** Demonstrates understanding by using the statistical enquiry cycle to investigate time series data, including selecting variables, creating displays, and making basic forecasts.
-  - **KEY INDICATORS:** Clear identification of trends and use of a simple model for predictions.
-  - **APPROACH:** Encourage the student to explain their variable selection and predictions. Use questions like, “What does your forecast suggest about future data trends?” and “How does your model explain the pattern you observed?”
+  - **EVALUATION:** Demonstrates understanding by using each component of the statistical enquiry cycle, including selecting a variable, displays, and creating a model for forecasting.
+  - **KEY INDICATORS:**
+    1. Selected a variable and related it to the context.
+    2. Identified features (e.g., trend, seasonal pattern) and described them in context.
+    3. Used a model to make a forecast and included a conclusion based on findings.
+  - **APPROACH:** Encourage the student to link findings explicitly to the context and provide evidence. Ask questions like, “How does this forecast connect to the trend?” and “What does this seasonal pattern suggest about the variable?”
 
 - **MERIT (M5 & M6):**
-  - **EVALUATION:** Justifies conclusions by linking data features to the context and providing evidence such as trends, statistics, or visual features.
-  - **KEY INDICATORS:** Contextualized analysis and well-supported conclusions with data evidence.
-  - **APPROACH:** Guide the student to provide evidence supporting their model and predictions. Ask questions like, “What evidence supports your forecast?” and “How does this trend relate to the context of the data?”
+  - **EVALUATION:** Investigates time series data with justification, linking components of the statistical enquiry cycle to the context and supporting statements with evidence from data.
+  - **KEY INDICATORS:**
+    1. Contextualized findings with clear links to evidence such as data values, trends, and features of visual displays.
+    2. Used displays and models, providing evidence for their reliability and relevance.
+    3. Explained the seasonal pattern and described its effect on the variable.
+    4. Provided a conclusion tying findings back to the investigation's purpose.
+  - **APPROACH:** Guide the student to strengthen their justification by asking, “What evidence supports your conclusion?” and “How does this trend or feature relate to the context?”
 
 - **EXCELLENCE (E7 & E8):**
-  - **EVALUATION:** Demonstrates statistical insight by integrating statistical and contextual knowledge, reflecting on the process, and evaluating model adequacy.
-  - **KEY INDICATORS:** Insightful analysis, including evaluation of model limitations and considering additional variables or factors.
-  - **APPROACH:** Encourage the student to reflect on their process and consider alternative models. Use questions like, “What limitations might your model have?” and “What other variables could influence the data trends?”
+  - **EVALUATION:** Investigates time series data with statistical insight, integrating statistical and contextual knowledge throughout the enquiry cycle.
+  - **KEY INDICATORS:**
+    1. Developed a clear purpose for the investigation through research and contextual understanding.
+    2. Integrated statistical and contextual knowledge in discussions, including consideration of population, sales, or other relevant variables.
+    3. Evaluated the adequacy of models, discussing limitations and reliability (e.g., seasonal effects or unusual residuals).
+    4. Compared actual values to predicted values, using prediction intervals to confirm model robustness.
+  - **APPROACH:** Encourage reflection on the process and deeper model evaluation. Use questions like, “What does this residual reveal about your model's fit?” and “How could contextual knowledge improve predictions?”
 
----
 
 ### INTERACTION GUIDELINES
 

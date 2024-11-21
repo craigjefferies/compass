@@ -1,99 +1,163 @@
-Scientific Method for Trialing AI Tutoring with Teacher-Prompt Guidance in Level 2 NCEA Science
-1. Objective
-To evaluate the impact of Generative AI (Gen AI) tutoring combined with teacher instruction on prompt usage, compared to traditional active learning methods, on learning gains, engagement, and motivation in Level 2 NCEA Biology, Physics, and Chemistry over 3–6 weeks of concept instruction.
+# Trialing AI Tutoring with Teacher-Prompt Guidance in Level 2 NCEA Science
 
-2. Hypothesis
-Students using Gen AI tutoring with teacher guidance on effective prompting will achieve greater learning gains, higher engagement, and increased motivation compared to traditional methods over an extended teaching period.
+## 1. Objective
+To evaluate the impact of Generative AI (Gen AI) tutoring combined with teacher instruction on prompt usage, compared to traditional active learning methods, on:
+- Learning gains.
+- Engagement and motivation in Level 2 NCEA Biology, Physics, and Chemistry.
 
-3. Participants
+---
 
-Pre-allocated Level 2 NCEA Science classes (Biology, Physics, Chemistry), each containing 25–30 students.
-Teachers and students must consent to participate.
-4. Study Design
-A cluster-based crossover design is used, with extended teaching over 3–6 weeks for each concept. Each class alternates between Gen AI-supported learning and traditional active learning methods for separate topics.
+## 2. Hypothesis
+Students using Gen AI tutoring with teacher guidance on effective prompting will:
+- Achieve greater learning gains.
+- Report higher engagement and motivation compared to traditional methods over a 3–6 week teaching period.
 
-Step-by-Step Process
-1. Topic and Timeframe
-Select two separate topics per subject to be taught over 3–6 weeks each:
-Example:
-Biology: Enzymes (Topic 1) and Photosynthesis (Topic 2).
-Physics: Mechanics (Topic 1) and Waves (Topic 2).
-Chemistry: Bonding (Topic 1) and Acids and Bases (Topic 2).
-2. Class Assignment
-Divide classes into two groups:
-Group A: Uses AI tutoring with teacher-prompt instruction for Topic 1, switches to traditional learning for Topic 2.
-Group B: Uses traditional learning for Topic 1, switches to AI tutoring with teacher-prompt instruction for Topic 2.
-3. Teaching Strategy
-For AI-Supported Teaching:
+---
 
-Week 1:
+## 3. Participants
+- Pre-allocated Level 2 NCEA Science classes (Biology, Physics, Chemistry), each containing 25–30 students.
+- Teacher and student consent required.
 
-Introduce the topic traditionally to all students.
-Teachers provide explicit instruction on how to use Gen AI for the topic, focusing on effective prompts to:
-Generate explanations.
-Scaffold problem-solving.
-Clarify concepts through interactive Q&A with the AI.
-Weeks 2–5:
+---
 
-Students use Gen AI for self-paced learning and guided practice (homework and in-class work).
-Teachers monitor AI usage and provide additional instruction on refining prompts and interpreting AI responses.
-Week 6:
+## 4. Study Design
+A **cluster-based crossover design** is used, with extended teaching over 3–6 weeks for each concept.
 
-Wrap-up sessions with teacher-led discussions and collaborative problem-solving.
-For Traditional Active Learning:
+### Step-by-Step Process
 
-Teachers deliver the topic entirely through structured lessons, group work, and classroom discussions, employing active learning techniques.
-4. Data Collection Points
-Pre-Test: Before starting the topic (Week 1).
+### 1. **Topic and Timeframe**
+- Select **two standalone topics per subject**, each lasting 3–6 weeks.
+  - Example:
+    - **Biology:** Enzymes (Topic 1) and Photosynthesis (Topic 2).
+    - **Physics:** Mechanics (Topic 1) and Waves (Topic 2).
+    - **Chemistry:** Bonding (Topic 1) and Acids and Bases (Topic 2).
 
-Progress Checks: Weekly formative assessments to track ongoing learning.
+---
 
-Post-Test: At the end of the topic (Week 6).
+### 2. **Class Assignment**
+- Divide classes into two groups:
+  - **Group A:** Uses AI tutoring with teacher-prompt instruction for Topic 1, switches to traditional active learning for Topic 2.
+  - **Group B:** Uses traditional active learning for Topic 1, switches to AI tutoring with teacher-prompt instruction for Topic 2.
 
-Surveys: After completing each topic, collect data on:
+---
 
-Engagement.
-Motivation.
-Perceptions of learning effectiveness.
-Time Tracking: Monitor total time spent:
+### 3. **Teaching Strategy**
 
-Using Gen AI for learning.
-Engaging in traditional classroom activities.
-5. Data Collection
+#### **AI-Supported Learning**
+- **Week 1:**  
+  - Teachers introduce the topic traditionally.
+  - Provide explicit instruction on using Gen AI for effective prompting:
+    - **Examples of prompts:**
+      - "Explain [concept] in steps."
+      - "What does [term] mean in [context]?"
+      - "Can you give an example of [concept]?"
 
-Learning Outcomes:
+- **Weeks 2–5:**  
+  - Students use Gen AI for self-paced learning during homework and in-class work.
+  - Teachers monitor AI usage and refine students’ prompting skills.
 
-Compare pre-test and post-test scores to measure learning gains for each method.
-Use weekly progress checks to monitor learning trends.
-Engagement and Motivation:
+- **Week 6:**  
+  - Teacher-led wrap-up session with collaborative problem-solving and reflection.
 
-Analyze survey responses after each topic.
-Prompt Usage:
+#### **Traditional Active Learning**
+- Teachers deliver the topic using:
+  - Structured lessons.
+  - Group discussions.
+  - Active learning techniques such as problem-solving and peer collaboration.
 
-Track the types and frequency of prompts used by students during AI-supported learning.
-Time on Task:
+---
 
-Record the time spent on Gen AI-based and traditional learning activities.
-6. Analysis
+### 4. **Data Collection Points**
+1. **Pre-Test:** Conducted before starting the topic (Week 1).
+2. **Progress Checks:** Weekly formative assessments to track learning.
+3. **Post-Test:** Administered after completing the topic (Week 6).
+4. **Surveys:** Administered after each topic to assess:
+   - Engagement.
+   - Motivation.
+   - Perceptions of the learning experience.
+5. **Time Tracking:**
+   - Monitor the time spent:
+     - Using Gen AI.
+     - Engaging in traditional classroom activities.
 
-Compare learning gains, engagement, and motivation between AI-supported and traditional learning.
-Correlate prompt quality and time on task with learning outcomes in the AI-supported group.
-Analyze trends in weekly progress checks to identify differences in pacing and comprehension.
-7. Results and Reflection
+---
 
-Present findings to teachers and students:
+## 5. Data Collection
 
-Did Gen AI-supported learning with prompt instruction lead to better outcomes?
-Were students more engaged and motivated?
-How did prompt usage evolve over time, and how did it impact learning?
-Reflect on the potential of integrating Gen AI into extended classroom instruction.
+### **Learning Outcomes**
+- Measure learning gains using pre-test and post-test scores.
+- Use weekly progress checks to monitor learning trends.
 
-8. Tools and Resources
+### **Engagement and Motivation**
+- Analyze survey responses to compare student engagement and motivation.
 
-AI Tutor Platform: Use Gen AI tools (e.g., ChatGPT) with structured prompts aligned to NCEA standards.
-Prompt Framework: Create a simple guide for students to learn effective prompts, e.g.,:
-"Explain [concept] in steps."
-"What does [term] mean in [context]?"
-"Can you give an example of [concept]?"
-Assessments and Surveys: Develop or adapt tools to align with NCEA Level 2 standards.
-Collaboration: Work closely with teachers to ensure consistency in instruction and data collection.
+### **Prompt Usage**
+- Track types and frequency of prompts used by students in AI-supported learning.
+
+### **Time on Task**
+- Record total hours spent on AI-based and traditional learning activities.
+
+---
+
+## 6. Analysis
+1. Compare learning gains, engagement, and motivation between AI-supported and traditional methods.
+2. Correlate prompt quality and time spent with learning outcomes in AI-supported groups.
+3. Identify trends in weekly progress checks to evaluate pacing and comprehension.
+
+---
+
+## 7. Results and Reflection
+- Present findings to teachers and students:
+  - Did AI tutoring with prompt guidance improve learning outcomes?
+  - Were students more engaged and motivated?
+  - How did prompt usage impact learning gains?
+
+- Reflect on the potential for integrating AI tutoring into extended classroom instruction.
+
+---
+
+## 8. Tools and Resources
+
+### **AI Tutor Platform**
+- Use Gen AI tools (e.g., ChatGPT) configured for:
+  - Scaffolded explanations.
+  - Interactive Q&A aligned with NCEA standards.
+
+### **Prompt Framework**
+- Provide students with a simple guide for effective prompting:
+  - Examples:
+    - "Explain [concept] step-by-step."
+    - "What is the significance of [concept]?"
+    - "How does [concept] connect to [other concept]?"
+
+### **Assessments and Surveys**
+- Develop pre-tests, post-tests, and surveys aligned with Level 2 NCEA standards.
+
+### **Collaboration**
+- Work closely with participating teachers to ensure:
+  - Consistency in content delivery.
+  - Effective monitoring of AI-supported learning.
+
+---
+
+## Variables to Monitor
+
+### **Independent Variables**
+- Teaching method (Gen AI with prompts vs. traditional active learning).
+- Topic studied.
+
+### **Dependent Variables**
+- Learning gains (pre-test and post-test scores).
+- Engagement and motivation (survey responses).
+
+### **Controlled Variables**
+- Content delivered (identical for both groups).
+- Time allocated to teaching each topic.
+
+### **Measured Variables**
+- Time on task (total hours spent interacting with Gen AI).
+
+---
+
+## Conclusion
+This extended study design evaluates the effectiveness of Gen AI tutoring, incorporating teacher-led prompt instruction, over 3–6 weeks of concept teaching in Level 2 NCEA Science. Results will inform the integration of AI into classroom teaching practices.

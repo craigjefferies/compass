@@ -1,3 +1,7 @@
+Note to self ... From Cogniti.ai there are two cool little prompt ideas
+ - Only give away ONE STEP AT A TIME, DO NOT give away the full solution in a single message
+ - When analysing the user’s work against the RUBRIC, err on the side of being more critical
+
 # AI Teaching Assistant for NCEA Achievement Standards
 
 ---

@@ -1,0 +1,146 @@
+### Ideas
+
+**Skill focus**: The relevance, quantity, quality, selection, and elaboration of ideas for the topic.
+
+**Definition**:
+- **Quality of ideas**:  
+  Simple ideas are related to the personal, immediate world of the writer (concrete, predictable, familiar, personal, and/or close to the writer's experience).  
+  Complex ideas may involve generalisation, abstraction, and reflection on the wider world and groups of people.
+
+- **Selection of ideas**:  
+  The deliberate choice of relevant ideas or subject matter to engage and influence the reader.
+
+- **Elaboration of ideas**:  
+  Elaboration should be relevant and may be given by providing background information or factual detail, describing, explaining, providing evidence, analysing, or evaluating.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Ideas are unrelated to the topic **OR** one brief, simple idea related to the topic                               | One idea may be repeated                         |
+| R2     | Text has a few simple, unelaborated ideas related to the topic                                                   | Ideas may be disconnected or brief points in a list |
+| R3     | Text has many simple, unelaborated ideas **OR** an idea is related to the topic and has some basic elaboration    | Some evidence of a main idea (e.g., persuasive text may take a position) |
+| R4     | Ideas are relevant and begin to show some complexity **AND** text has one elaborated idea **OR** several ideas that have some elaboration | Elaboration may lack depth and detail. Complexity may not be controlled. |
+| R5     | Ideas are complex and elaborated                                                                                 | Main idea/theme is present but focus may not be sustained. Elaboration is detailed. |
+| R6     | Ideas show insight, originality, some authority, and/or reflection on the wider world **AND** are deliberately selected, effective, and elaborated | Complex issues/themes are raised. Main idea is focused. |
+
+---
+
+### Structure and Language
+
+**Skill focus**: The presence and development of structural and language features appropriate to the specified purpose.
+
+**Definition**:
+- **Structural features**:  
+  The component parts that are typically associated with a text written for a particular purpose. For example, when narrating, structural features may include an orientation to the context (place, time, and participants), a series of events/actions, a problem or complication, and a resolution.
+
+- **Language features**:  
+  The language patterns that are typically associated with a text written for a particular purpose. These include selection of tense, tone, text connectives, and vocabulary. For example, when narrating, typical language features include use of past tense, connectives denoting time (to provide a clear sequence of events), expressive and/or descriptive vocabulary, and dialogue.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Structural features and language features are inappropriate for purpose or absent                                | See ‘Structure and Language Notes’ for each prompt for guidance on appropriate features. |
+| R2     | Some structural features are appropriate to purpose **AND/OR** some language features are appropriate            | -                                                 |
+| R3     | Structural features are appropriate to purpose **AND** language features are mostly appropriate                  | -                                                 |
+| R4     | Structural features are appropriate and show development (may include one well-developed element, others less developed) **AND** language features are appropriate | -                                                 |
+| R5     | Structural features are appropriate, developed, and mostly controlled **AND** language features are mostly controlled | -                                                 |
+| R6     | Structural and language features are appropriate, controlled, and effective                                      | -                                                 |
+
+---
+
+### Organisation
+
+**Skill focus**: The organisation of ideas into a coherent text.
+
+**Definition**:
+- **Coherence**:  
+  The way ideas are linked to each other and to the broader context of the writing and/or the wider world to produce a text that is meaningful to the reader. When the text is coherent, the relationships between ideas are clear and the writing ‘flows.’  
+  When assessing a text’s coherence, look for clear text connectives, consistency of verb tense, and accuracy of referring words (e.g., pronouns) across the text as a whole.  
+  **Note**: The focus is on the text as a whole, rather than on individual sentences.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Ideas are disconnected and/or random **OR** text lacks coherence                                                 | May be a very short text                         |
+| R2     | Text attempts to group and sequence ideas                                                                        | Some ideas are grouped spatially, temporally, or logically |
+| R3     | Text has some coherence                                                                                          | Errors in or absence of linking words or inconsistencies in tense across text may interrupt flow |
+| R4     | Ideas are grouped and sequenced, and text generally flows. Text may be brief but coherent                        | Errors in or absence of linking words or inconsistencies in tense do not interrupt flow |
+| R5     | Text shows control over grouping and sequencing of ideas, but paragraphs are not used or indicated incorrectly   | Paragraphs have minimal development (e.g., one sentence), or some paragraph breaks are not indicated |
+| R6     | Ideas are organised into basic paragraphs. Paragraphs support text development                                   | Some paragraphs may be out of sequence           |
+| R7     | Paragraphs are deliberately structured to direct the reader. Ideas are linked effectively within and across paragraphs | Subheadings, topic sentences, and linking words are present and appropriate |
+
+---
+
+### Vocabulary
+
+**Skill focus**: The range, precision, and effectiveness of word choices appropriate to the topic.
+
+**Definition**:
+- **Simple everyday words**: Words that are related to the personal world of the writer; words that are used frequently.
+- **Precise words**: Words that are descriptive, expressive, academic, technical, or abstract.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Uses a small range of simple, everyday words and phrases from personal vocabulary                                 | -                                                 |
+| R2     | Uses a range of simple, everyday words and phrases from personal vocabulary                                       | May use adjectives, adverbs, and/or precise verbs to add interest and detail |
+| R3     | Uses a range of everyday words and phrases, with a small number of precise words to add detail                    | May use simple idioms or figures of speech        |
+| R4     | Uses a variety of precise words and phrases to add information and/or interest                                    | May use idioms, metaphors, similes, and other figures of speech. Some experimentation may occur. |
+| R5     | Selects words and phrases to enhance meaning and/or mood                                                          | Use of precise words may be inconsistent; everyday or overblown language may cause jarring |
+| R6     | Precise language choices consistently enhance meaning and/or mood                                                | Deliberate and sustained use of precise vocabulary (descriptive, expressive, academic, technical, abstract) for effect |
+
+---
+
+### Sentence Structure
+
+**Skill focus**: The quality, effectiveness, and correctness of sentences.
+
+**Definition**:
+When judging the correctness of each sentence, consider the following (note: the focus is on the use of correct forms within a sentence, rather than between sentences or paragraphs):
+- Word form (e.g., singular or plural).
+- Verb tense.
+- Subject−verb agreement.
+- Articles and pronouns.
+- Use of prepositions and relative pronouns to expand sentences.
+- Arrangement of (order of) elaborating phrases and clauses.
+- Missing words.
+- Order of words.
+
+**Note**: In order to make assessment of sentence structure more manageable, ‘read in’ missing or incorrect sentence punctuation (including full stops). (Punctuation is assessed separately, in the ‘Punctuation’ element.)
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Few correct sentences                                                                                            | Text consists of fragments, phrases, or sentences with missing words. Some meaning is discernible. |
+| R2     | Correct sentences are short and may have minimal extension                                                       | Sentences may be simple and/or compound and/or basic complex. |
+| R3     | Correct sentences begin to show variety in structure and type                                                   | May contain long, run-on sentences with overuse of conjunctions. Some sentences may have repeated structures. |
+| R4     | Most sentences are correct                                                                                       | Errors in longer sentences may be brought about by use of speech-like structures. Some sentences may be controlled for effect. |
+| R5     | Correct sentences show variety in structure, length, and type, with extending phrases and/or clauses **OR** all sentences are correct but repetitive | Meaning is clear (may be some inconsistency or minor error). Sentences express precise meaning. |
+| R6     | Sentences are controlled, showing variety in structure, length, and type, and have extending phrases and/or clauses. Sentences are deliberately crafted to impact and engage. | -                                                 |
+
+---
+
+### Punctuation
+
+**Skill focus**: The accurate use of sentence punctuation markers and the range and accuracy of other punctuation to aid understanding of the text and to enhance meaning.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Little, no, or random punctuation                                                                                | May include one full stop at end of writing.      |
+| R2     | Experimentation with sentence punctuation                                                                        | Full stops may be used separately from text meaning. |
+| R3     | Some correct use of sentence punctuation                                                                         | Some sentences may be joined by commas.          |
+| R4     | Correct punctuation of most sentences **AND** some correct use of other punctuation                              | Sentence endings are marked by full stops, exclamation marks, or question marks. |
+| R5     | Correct sentence punctuation **AND** correct use of other punctuation with experimentation in complex punctuation | May include dashes, parentheses, commas for phrases and clauses, hyphens, and others. |
+| R6     | Sentence punctuation is correct **AND** a wider range of other punctuation is used correctly, including capital letters | Few or no errors in punctuation.                 |
+| R7     | Control of punctuation to enhance meaning                                                                        | -                                                 |
+
+---
+
+### Spelling
+
+**Skill focus**: The difficulty of words used and the accuracy of the spelling.
+
+| **R#** | **Descriptor**                                                                                                     | **Notes**                                           |
+|--------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| R1     | Uses some letters to represent meaning                                                                            | Single letters or strings of letters that do not support meaning. |
+| R2     | Spells a few personal and high-frequency words correctly (e.g., "my", "it", "if")                                | Attempts words using phoneme–grapheme relationships. |
+| R3     | Spells a range of personal and high-frequency words correctly (e.g., "school", "where", "friend")                | Attempts a wider range of words using phoneme–grapheme relationships and word chunks. |
+| R4     | Spells a wide range of high-frequency words correctly                                                            | Attempts difficult word(s) using phoneme–grapheme relationships and developing knowledge of spelling rules. |
+| R5     | Spells high-frequency and some difficult words correctly                                                         | Attempts difficult words using diverse phoneme–grapheme relationships, and knowledge of spelling rules and morphemes. |
+| R6     | Spells high-frequency and a range of difficult words with few or no errors                                       | -                                                 |
+

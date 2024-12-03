@@ -14,6 +14,7 @@
 - [AS91611 Technology](https://chatgpt.com/g/g-674768007b64819198ce90bf8b87cef5-as91611-as3-4-prototype-assistant)
 - [AS91898 Digital Technologies (AI Focus)](https://chatgpt.com/g/g-fVqASejkv-as91898-as2-9-digital-technologies-ai-focus)
 - [AS91893 Digital Technologies](https://chatgpt.com/g/g-673bad7663c481919c8f736ef3ef9025-as91893-as2-4-digital-technologies)
+- [AS91897 Digital Technologies](https://chatgpt.com/g/g-674f97bfa0e881918f7d8b20ca164831-as91897-digital-technologies)
 - [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)
 - [AS92004 Digital Technologies](https://chatgpt.com/g/g-NBA8QltMa-as92004-as1-1-digital-technologies-assistant)
 - [AS92005 Digital Technologies](https://chatgpt.com/g/g-sZ2YYNNGx-as92005-as1-2-digital-technology-outcome-assistant)

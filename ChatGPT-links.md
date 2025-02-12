@@ -27,6 +27,7 @@
 These are a little different ... still working on a structure for them
 - [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)
 - [US32406 NCEA Numeracy Co Req](https://chatgpt.com/g/g-uPOg0tjNM-us32406-numeracy-co-req-assistant)
+- [Digital Technologies Scholarship](https://chatgpt.com/g/g-67ac09305f1c8191832ce7ed90e25c1b-scholarship-digital-technolgies)
 
 The Asttle Marker has issues? Due to two main problems. The Marking schedule is around 8000 characters so max's out the context window, making fine-tuning difficult. Need to migrate the rubric to a markup based text file and then look at fine tuning each assessment area with training data. One Day! Plus the GPT overly infers meaning from student work. Plus the GPT is overly strict on syntax.
 - [Asttle Writing Evaluation Tool](https://chatgpt.com/g/g-6736827b11e88190a37381013f46055e-asttle-writing-evaluation-tool)

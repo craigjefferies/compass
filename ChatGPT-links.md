@@ -24,7 +24,8 @@
 - [AS92006 Digital Technologies](https://chatgpt.com/g/g-MRbbheEY5-92006-as1-3-digital-technology-hci-assistant)
 - [AS92012 Materials & Process Technologies](https://chatgpt.com/g/g-LKFQMsC98-as92012-as1-1-mpt-outcome-development-assistant)
 - [AS92013 Materials & Process Technologies](https://chatgpt.com/g/g-EUuwuAjWy-as92013-as1-2-mpt-experiment-with-materials)
-
+- [Technology Scholarship](https://chatgpt.com/g/g-73p5rRozh-technology-scholarship-teaching-assistant)
+  
 These are a little different ... still working on a structure for them
 - [US32405 NCEA Writing Co Req](https://chatgpt.com/g/g-uOOMFNB4T-us32405-ncea-writing-co-req)
 - [US32406 NCEA Numeracy Co Req](https://chatgpt.com/g/g-uPOg0tjNM-us32406-numeracy-co-req-assistant)

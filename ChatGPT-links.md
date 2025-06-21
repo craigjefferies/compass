@@ -17,6 +17,7 @@
 - [AS91893 Digital Technologies](https://chatgpt.com/g/g-673bad7663c481919c8f736ef3ef9025-as91893-as2-4-digital-technologies)
 - [AS91906 Digital Technologies](https://chatgpt.com/g/g-6750966e46748191b7fbe412a9a68763-as91906-digital-technologies)
 - [AS91897 Digital Technologies](https://chatgpt.com/g/g-674f97bfa0e881918f7d8b20ca164831-as91897-digital-technologies)
+- [AS91907 Digital Technologies](https://chatgpt.com/g/g-6856575055b0819194353ae89b1988ef-as91907-complex-processes-teaching-assistant)
 - [AS91924 English](https://chatgpt.com/g/g-LvJ2YOBXn-as91924-as1-1-english-teaching-assistant)
 - [AS91105 English](https://chatgpt.com/g/g-67fec91d0eb88191aff984c06b1a5ec0-english-as2-8-as91105-teaching-assistant)
 - [AS91101 English](https://chatgpt.com/g/g-67bf8471496481919c8336f40941e0ce-as91101-2-4-english)

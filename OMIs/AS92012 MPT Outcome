@@ -1,0 +1,148 @@
+{
+"meta": {
+"as_code": "AS92012",
+"title": "Develop a Materials and Processing Technology outcome in an authentic context",
+"version": "3",
+"credits": 6,
+"assessment_type": "Internal",
+"source_pdf": "as92012.pdf",
+"purpose": "Students are able to develop a Materials and Processing Technology outcome in an authentic context."
+},
+"grade_descriptors": {
+"N1": "Evidence does not reach the minimum threshold for Achieved-level indicators.",
+"N2": "Some Achieved-level indicators are met, but not enough to satisfy all required Achieved criteria.",
+"A3": "All Achieved-level indicators are met; no Merit-level indicator meets the Merit threshold.",
+"A4": "All Achieved indicators are met and at least one Merit indicator is met, but overall performance is below the Merit threshold.",
+"M5": "All Achieved indicators are met and the Merit threshold is reached; no Excellence-level indicator meets the Excellence threshold.",
+"M6": "All Achieved indicators are met, all Merit indicators are met, and at least one Excellence indicator is met, but overall performance is below the Excellence threshold.",
+"E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
+"E8": "All Achieved, Merit, and Excellence indicators are met."
+},
+"key_terms": [
+{ "term": "brief", "definition": "A statement of intent that identifies the purpose, end user, and actual or modelled intended environment in the authentic context when developing an outcome." },
+{ "term": "specifications", "definition": "Precise and measurable physical and functional requirements that are evaluated as met or not met." },
+{ "term": "stakeholder feedback", "definition": "Documented verbal or written information sourced first-hand from more than one stakeholder to inform development." },
+{ "term": "authentic context", "definition": "A real-life situation familiar to students within which an outcome can be developed." },
+{ "term": "fitness for purpose", "definition": "The extent to which an outcome addresses the requirements of a brief with specifications, considering end user(s) and context." }
+],
+"omis": [
+{
+"id": "brief_defined",
+"description": "A brief is presented that explicitly states purpose, end user, and intended environment.",
+"level": "A",
+"weight": 1,
+"detection_hint": "The brief must name all three elements: purpose, end user, and environment. Listing the context alone is not enough; the student must also state the purpose and end user. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""identifies the purpose, end user, and actual or modelled intended environment""],
+"source_ref": "AS PDF p2 ¶1"
+},
+{
+"id": "specifications_measurable",
+"description": "Physical and functional specifications are precise and measurable.",
+"level": "A",
+"weight": 1,
+"detection_hint": "Specifications must include measurable criteria (e.g., dimensions, strength). Mentioning that something is ‘good quality’ without metrics does not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""Specifications are short statements of intent that are precise and measurable.""],
+"source_ref": "AS PDF p2 ¶2"
+},
+{
+"id": "authentic_context_identified",
+"description": "The outcome is situated within a clearly described authentic context familiar to the student.",
+"level": "A",
+"weight": 1,
+"detection_hint": "Student must describe the real-life situation where the outcome will be used. Vague references to ‘everyday life’ are not enough. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""a real-life situation within which an outcome can be developed""],
+"source_ref": "AS PDF p2 ¶4"
+},
+{
+"id": "fit_for_purpose_outcome_created",
+"description": "A tangible outcome is produced that addresses the brief and specifications.",
+"level": "A",
+"weight": 1,
+"detection_hint": "Student must present the finished product and link it to the brief. Draft sketches without a final artefact do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""creating a fit-for-purpose outcome for a person, whānau, or community""],
+"source_ref": "AS PDF p1 Purpose"
+},
+{
+"id": "stakeholder_feedback_gathered",
+"description": "Feedback is collected from more than one stakeholder at more than one stage.",
+"level": "M",
+"weight": 1,
+"detection_hint": "Evidence must show feedback points from at least two different stakeholders on separate occasions. A single end-user quote is not enough. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""More than one stakeholder must be consulted.""],
+"source_ref": "AS PDF p2 ¶3"
+},
+{
+"id": "stakeholder_feedback_applied",
+"description": "Stakeholder feedback is applied to inform the development or refinement of the outcome.",
+"level": "M",
+"weight": 1,
+"detection_hint": "Student must show how specific feedback led to a change. Mentioning feedback without demonstrating its influence is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""applying stakeholder feedback to inform the development of the outcome""],
+"source_ref": "AS PDF p1 Merit criteria"
+},
+{
+"id": "decisions_explained_for_improvement",
+"description": "Decisions that improve fitness for purpose are explained with reasoning.",
+"level": "M",
+"weight": 1,
+"detection_hint": "Explanation must link the decision to fitness for purpose. Simply stating ‘I changed the design’ is not enough; reasoning must be shown. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""explaining decisions that inform the improvement of the outcome's fitness for purpose""],
+"source_ref": "AS PDF p1 Merit criteria"
+},
+{
+"id": "stakeholder_feedback_analyzed",
+"description": "Analysis is provided showing how stakeholder feedback informed development decisions.",
+"level": "E",
+"weight": 1,
+"detection_hint": "Student must dissect feedback and show cause-effect on design choices. Listing feedback without analysis is not enough. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""analysing how stakeholder feedback informed the development of the outcome""],
+"source_ref": "AS PDF p1 Excellence criteria"
+},
+{
+"id": "evaluation_against_brief",
+"description": "Outcome is evaluated against the brief and specifications in the intended environment.",
+"level": "E",
+"weight": 1,
+"detection_hint": "Student must compare outcome performance to each specification in the actual or modelled environment. General statements like ‘it works well’ are insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""evaluating the outcome against the brief with specifications""],
+"source_ref": "AS PDF p1 Excellence criteria"
+},
+{
+"id": "fitness_for_purpose_judged",
+"description": "Clear judgement of the outcome’s fitness for purpose is made, supported by measurable evidence.",
+"level": "E",
+"weight": 1,
+"detection_hint": "Student must state whether the outcome is fit for purpose and back this with measurable data. Vague claims without evidence do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+"success_examples": [""fitness for purpose in the actual or modelled intended environment""],
+"source_ref": "Low Excellence commentary"
+}
+],
+"aggregation_rules": {
+"method": "hierarchical",
+"gate_sequence": ["A", "M", "E"],
+"levels": {
+"A": { "required_fraction": 1.0 },
+"M": { "required_fraction": 0.60 },
+"E": { "required_fraction": 0.50 }
+},
+"sub_band_logic": {
+"Achieved": {
+"A3": { "extra_merit_indicators": 0 },
+"A4": { "extra_merit_indicators": "≥1" }
+},
+"Merit": {
+"M5": { "extra_excellence_indicators": 0 },
+"M6": { "extra_excellence_indicators": "≥1" }
+},
+"Excellence": {
+"E7": { "excellence_fraction": "<1.0" },
+"E8": { "excellence_fraction": "1.0" }
+}
+},
+"fallback_grade": "N1"
+},
+"governance": {
+"last_validated": "2025-06-13",
+"change_log": []
+}
+}

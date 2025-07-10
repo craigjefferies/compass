@@ -18,13 +18,14 @@
     "E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
     "E8": "All Achieved, Merit, and Excellence indicators are met."
   },
-  "key_terms": [
-    { "term": "mechanism", "definition": "A technique, algorithm, principle, protocol, or process that makes the concept work." },
-    { "term": "impact", "definition": "An ethical, social, sustainability, human-factor, or future-proofing consequence of using the concept." },
-    { "term": "precision", "definition": "Out of all positive results given by the AI, the fraction that are correct." },
-    { "term": "recall", "definition": "Out of all real positives, the fraction the AI actually finds." },
-    { "term": "threshold", "definition": "The cut-off score the AI uses to decide between classes (e.g., brake / no brake)." }
-  ],
+"key_terms": [
+  { "term": "mechanism", "definition": "A technique, algorithm, principle, protocol, or process that makes the concept work." },
+  { "term": "impact", "definition": "An ethical, social, sustainability, human-factor, or future-proofing consequence of using the concept." },
+  { "term": "machine learning (ML)", "definition": "A field of AI where computers learn patterns from data to perform tasks without being explicitly programmed with step-by-step rules." },
+  { "term": "neural network (NN)", "definition": "A layered set of interconnected ‘neurons’ that adjust their connection weights during training to recognise complex patterns, often used for vision or speech tasks." },
+  { "term": "natural language processing (NLP)", "definition": "The branch of AI that enables computers to understand, interpret, and generate human language in text or speech form." }
+],
+
   "omis": [
     {
       "id": "identify_concept",

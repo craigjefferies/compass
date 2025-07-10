@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "as_code": "AS91898",
+    "title": "Demonstrate understanding of a computer science concept",
+    "version": "1",
+    "credits": 3,
+    "assessment_type": "External",
+    "source_pdf": "as91898.pdf",
+    "purpose": "Students show understanding of a chosen computer-science concept by describing how it works, how it is used, and what impacts or issues it raises."
+  },
+  "grade_descriptors": {
+    "N1": "Evidence does not reach the minimum threshold for Achieved-level indicators.",
+    "N2": "Some Achieved-level indicators are met, but not enough to satisfy all required Achieved criteria.",
+    "A3": "All Achieved-level indicators are met; no Merit-level indicator meets the Merit threshold.",
+    "A4": "All Achieved indicators are met and at least one Merit indicator is met, but overall performance is below the Merit threshold.",
+    "M5": "All Achieved indicators are met and the Merit threshold is reached; no Excellence-level indicator meets the Excellence threshold.",
+    "M6": "All Achieved indicators are met, all Merit indicators are met, and at least one Excellence indicator is met, but overall performance is below the Excellence threshold.",
+    "E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
+    "E8": "All Achieved, Merit, and Excellence indicators are met."
+  },
+  "key_terms": [
+    { "term": "mechanism", "definition": "A technique, algorithm, principle, protocol, or process that makes the concept work." },
+    { "term": "impact", "definition": "An ethical, social, sustainability, human-factor, or future-proofing consequence of using the concept." },
+    { "term": "precision", "definition": "Out of all positive results given by the AI, the fraction that are correct." },
+    { "term": "recall", "definition": "Out of all real positives, the fraction the AI actually finds." },
+    { "term": "threshold", "definition": "The cut-off score the AI uses to decide between classes (e.g., brake / no brake)." }
+  ],
+  "omis": [
+    {
+      "id": "identify_concept",
+      "description": "Names the chosen computer-science concept (e.g., artificial intelligence).",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "The response must clearly state the specific concept by name. Generic labels such as “technology”, “computing”, or “software” never meet this indicator unless the specific AI sub-field is also named. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["artificial intelligence", "computer security"],
+      "source_ref": "AS PDF p1 Achievement Criteria"
+    },
+    {
+      "id": "describe_usage",
+      "description": "Links one named mechanism to one named real-world context showing how it is used.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "The student must connect a mechanism to a context in the same explanation (e.g., “A Tiny CNN classifies pedestrians in an AEB system”). Listing ‘healthcare’ and ‘AI’ in separate sentences is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Tiny CNN classifies pedestrians in AEB", "Naïve Bayes filters spam emails"],
+      "source_ref": "Moderator commentary bullets"
+    },
+    {
+      "id": "explain_application",
+      "description": "Explains why the AI application solves an identified opportunity or problem.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "The explanation must show a need/opportunity and how the AI helps (e.g., “Early eye-screening spots disease before symptoms, reducing clinic visits”). Vague claims like “it’s helpful” are insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["reduces road-deaths by braking faster than humans"],
+      "source_ref": "AS PDF p2 ¶2 bullet 3"
+    },
+    {
+      "id": "explain_mechanism",
+      "description": "Describes at least one internal step of the chosen mechanism and its role.",
+      "level": "A",
+      "weight": 2,
+      "detection_hint": "Student must name an inner step (e.g., convolution, token weighting, back-propagation) and state what it does. Mentioning a mechanism without describing a step is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["back-propagation adjusts weights to reduce error", "convolution layers detect edges"],
+      "source_ref": "AS PDF p2 ¶2 bullet 4"
+    },
+    {
+      "id": "articulate_advantage_or_limitation",
+      "description": "Gives at least one clear advantage or limitation of the AI use in context.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Student must state a concrete advantage OR limitation linked to the context (e.g., “cuts rear-end crashes by 50 %”). Vague positives (“it’s good”) or negatives (“it’s bad”) do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["cuts rear-end crashes by 50 %", "camera glare can cause phantom braking"],
+      "source_ref": "Moderator commentary & 2023 paper (a)(iii)"
+    },
+    {
+      "id": "analyse_impact",
+      "description": "Explains at least one significant impact of the concept (ethical, social, sustainability, human-factor, or future-proofing).",
+      "level": "M",
+      "weight": 1,
+      "detection_hint": "The response must link cause and effect using language like “because”, “leads to”, “results in” (e.g., “Because training data lacks diversity, the AI mislabels darker skin tones”). Mentioning an impact without explanation is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["raises privacy concerns because data is stored online"],
+      "source_ref": "AS PDF p2 ¶5"
+    },
+    {
+      "id": "compare_multiple_impacts",
+      "description": "Compares or contrasts two or more impacts, showing depth of understanding.",
+      "level": "M",
+      "weight": 1,
+      "detection_hint": "The student must use comparative language (‘whereas’, ‘more than’, ‘in contrast’) to weigh impacts. Listing two impacts in isolation is not comparison. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["while AI speeds triage, it also risks over-trust by doctors"],
+      "source_ref": "AS PDF p2 ¶5"
+    },
+    {
+      "id": "discuss_key_issues",
+      "description": "Explains a key technical or ethical issue (e.g., bias, adversarial attacks, tractability).",
+      "level": "E",
+      "weight": 1,
+      "detection_hint": "The explanation must name a concrete issue and discuss why it matters (e.g., “algorithmic bias can deny loans to certain groups”). Vague complaints are insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["algorithmic bias in facial recognition", "adversarial stickers fool image classifiers"],
+      "source_ref": "AS PDF comprehensive criterion"
+    },
+    {
+      "id": "evaluate_issue_significance",
+      "description": "Judges the significance or severity of the issue, giving reasoning or criteria-based justification.",
+      "level": "E",
+      "weight": 1,
+      "detection_hint": "The response must make a claim about importance and back it with reasoning or evidence (e.g., statistics, criteria). Opinions without justification do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["bias undermines fairness in healthcare AI where diagnosis errors harm patients"],
+      "source_ref": "AS PDF comprehensive criterion"
+    },
+    {
+      "id": "propose_mitigation_or_future_proofing",
+      "description": "Suggests a specific mitigation or future-proofing strategy linked to the identified issue.",
+      "level": "E",
+      "weight": 1,
+      "detection_hint": "The strategy must match the issue (e.g., “use diverse datasets to reduce bias”). Generic advice (‘test more’, ‘improve it’) does not count unless tied to the issue. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["diverse training data reduces bias", "sensor fusion removes glare problem"],
+      "source_ref": "AS PDF p2 ¶5 future-proofing"
+    }
+  ],
+  "aggregation_rules": {
+    "method": "hierarchical",
+    "gate_sequence": ["A", "M", "E"],
+    "levels": {
+      "A": { "required_fraction": 1.0 },
+      "M": { "required_fraction": 0.60 },
+      "E": { "required_fraction": 0.50 }
+    },
+    "sub_band_logic": {
+      "Achieved": {
+        "A3": { "extra_merit_indicators": 0 },
+        "A4": { "extra_merit_indicators": "≥1" }
+      },
+      "Merit": {
+        "M5": { "extra_excellence_indicators": 0 },
+        "M6": { "extra_excellence_indicators": "≥1" }
+      },
+      "Excellence": {
+        "E7": { "excellence_fraction": "<1.0" },
+        "E8": { "excellence_fraction": "1.0" }
+      }
+    },
+    "fallback_grade": "N1"
+  },
+  "governance": {
+    "last_validated": "2025-06-13",
+    "change_log": [
+      "2025-07-10 – Tweaked detection hints for clarity, merged mechanism linkage, added advantage/limitation OMI, updated weights, added key terms."
+    ]
+  }
+}

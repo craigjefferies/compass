@@ -23,7 +23,6 @@
 | Neural Network (NN) | A layered model that adjusts weights to recognize patterns. |
 | Natural Language Processing (NLP) | AI that processes and generates human language. |
 | Supervised Learning | ML using labeled data to learn patterns. |
-| Convolution | A NN step that detects edges and features in images. |
 | Accuracy | Proportion of correct predictions overall. |
 | Precision | How often predicted positives are actually correct. |
 | Precision@K | Accuracy of top-K recommendations. |

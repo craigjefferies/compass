@@ -18,22 +18,40 @@
     "E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
     "E8": "All Achieved, Merit, and Excellence indicators are met."
   },
-"key_terms": [
-  { "term": "mechanism", "definition": "A technique, algorithm, principle, protocol, or process that makes the concept work." },
-  { "term": "impact", "definition": "An ethical, social, sustainability, human-factor, or future-proofing consequence of using the concept." },
-  { "term": "machine learning (ML)", "definition": "A field of AI where computers learn patterns from data to perform tasks without being explicitly programmed with step-by-step rules." },
-  { "term": "neural network (NN)", "definition": "A layered set of interconnected ‘neurons’ that adjust their connection weights during training to recognise complex patterns, often used for vision or speech tasks." },
-  { "term": "natural language processing (NLP)", "definition": "The branch of AI that enables computers to understand, interpret, and generate human language in text or speech form." }
-],
-
+  "key_terms": [
+    {
+      "term": "mechanism",
+      "definition": "A technique, algorithm, principle, protocol, or process that makes the concept work."
+    },
+    {
+      "term": "impact",
+      "definition": "An ethical, social, sustainability, human-factor, or future-proofing consequence of using the concept."
+    },
+    {
+      "term": "machine learning (ML)",
+      "definition": "A field of AI where computers learn patterns from data to perform tasks without being explicitly programmed with step-by-step rules."
+    },
+    {
+      "term": "neural network (NN)",
+      "definition": "A layered set of interconnected \u2018neurons\u2019 that adjust their connection weights during training to recognise complex patterns, often used for vision or speech tasks."
+    },
+    {
+      "term": "natural language processing (NLP)",
+      "definition": "The branch of AI that enables computers to understand, interpret, and generate human language in text or speech form."
+    }
+  ],
   "omis": [
     {
       "id": "identify_concept",
       "description": "Names the chosen computer-science concept (e.g., artificial intelligence).",
       "level": "A",
       "weight": 1,
-      "detection_hint": "The response must clearly state the specific concept by name. Generic labels such as “technology”, “computing”, or “software” never meet this indicator unless the specific AI sub-field is also named. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["artificial intelligence", "computer security"],
+      "detection_hint": "The concept must be clearly named \u2014 like 'artificial intelligence', 'neural networks', or 'recommender systems'. Vague terms like 'technology' or 'software' are not enough unless directly followed by the AI concept. Highlight exact phrases that succeed or fail.",
+      "success_examples": [
+        "artificial intelligence",
+        "neural network (NN)",
+        "collaborative recommender system"
+      ],
       "source_ref": "AS PDF p1 Achievement Criteria"
     },
     {
@@ -41,8 +59,12 @@
       "description": "Links one named mechanism to one named real-world context showing how it is used.",
       "level": "A",
       "weight": 1,
-      "detection_hint": "The student must connect a mechanism to a context in the same explanation (e.g., “A Tiny CNN classifies pedestrians in an AEB system”). Listing ‘healthcare’ and ‘AI’ in separate sentences is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["Tiny CNN classifies pedestrians in AEB", "Naïve Bayes filters spam emails"],
+      "detection_hint": "The student must link a named mechanism to a specific task in a real context in a single explanation (e.g., 'A CNN spots pedestrians in car cameras'). Listing a context and mechanism in separate places is insufficient. Highlight the matching mechanism + task pair.",
+      "success_examples": [
+        "A CNN scans dash-cam images to detect pedestrians.",
+        "A supervised classifier detects hate speech on social media.",
+        "An LLM summarises doctor notes into plain-English discharge summaries."
+      ],
       "source_ref": "Moderator commentary bullets"
     },
     {
@@ -50,26 +72,38 @@
       "description": "Explains why the AI application solves an identified opportunity or problem.",
       "level": "A",
       "weight": 1,
-      "detection_hint": "The explanation must show a need/opportunity and how the AI helps (e.g., “Early eye-screening spots disease before symptoms, reducing clinic visits”). Vague claims like “it’s helpful” are insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["reduces road-deaths by braking faster than humans"],
-      "source_ref": "AS PDF p2 ¶2 bullet 3"
+      "detection_hint": "The explanation must show both the problem or opportunity and how the AI helps (e.g., 'LLM removes jargon from discharge notes to improve readability'). Phrases like 'it helps' or 'it\u2019s useful' without specifics are not enough. Highlight both problem and benefit.",
+      "success_examples": [
+        "Reduces road deaths by braking faster than humans.",
+        "Filters hate speech to protect users from harmful content.",
+        "Improves patient care by removing jargon from discharge notes."
+      ],
+      "source_ref": "AS PDF p2 \u00b62 bullet 3"
     },
     {
       "id": "explain_mechanism",
       "description": "Describes at least one internal step of the chosen mechanism and its role.",
       "level": "A",
       "weight": 2,
-      "detection_hint": "Student must name an inner step (e.g., convolution, token weighting, back-propagation) and state what it does. Mentioning a mechanism without describing a step is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["back-propagation adjusts weights to reduce error", "convolution layers detect edges"],
-      "source_ref": "AS PDF p2 ¶2 bullet 4"
+      "detection_hint": "The student must name at least one step inside the mechanism and explain what it does (e.g., 'Self-attention finds which word matters most'). Simply naming the mechanism without showing how it works is insufficient. Highlight the step and its role.",
+      "success_examples": [
+        "Back-propagation adjusts weights to reduce prediction error.",
+        "Convolution layers detect edges and shapes in dash-cam footage.",
+        "Self-attention in transformers highlights important medical terms."
+      ],
+      "source_ref": "AS PDF p2 \u00b62 bullet 4"
     },
     {
       "id": "articulate_advantage_or_limitation",
       "description": "Gives at least one clear advantage or limitation of the AI use in context.",
       "level": "A",
       "weight": 1,
-      "detection_hint": "Student must state a concrete advantage OR limitation linked to the context (e.g., “cuts rear-end crashes by 50 %”). Vague positives (“it’s good”) or negatives (“it’s bad”) do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["cuts rear-end crashes by 50 %", "camera glare can cause phantom braking"],
+      "detection_hint": "Student must state a clear and specific advantage or limitation tied to the context (e.g., 'Hallucinations in LLMs can invent dosages'). General praise or criticism ('it's bad', 'it's good') doesn\u2019t count. Highlight context-specific pros/cons.",
+      "success_examples": [
+        "Camera glare can cause phantom braking in CNNs.",
+        "LLMs may hallucinate incorrect medical dosages.",
+        "A hate-speech filter may wrongly flag slang as offensive."
+      ],
       "source_ref": "Moderator commentary & 2023 paper (a)(iii)"
     },
     {
@@ -77,26 +111,38 @@
       "description": "Explains at least one significant impact of the concept (ethical, social, sustainability, human-factor, or future-proofing).",
       "level": "M",
       "weight": 1,
-      "detection_hint": "The response must link cause and effect using language like “because”, “leads to”, “results in” (e.g., “Because training data lacks diversity, the AI mislabels darker skin tones”). Mentioning an impact without explanation is insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["raises privacy concerns because data is stored online"],
-      "source_ref": "AS PDF p2 ¶5"
+      "detection_hint": "The response must explain cause and effect using terms like 'because', 'this leads to', 'results in'. For example: 'Bias in training data leads to unfair outcomes for minority users'. A simple mention of an issue is not enough. Highlight the reasoning chain.",
+      "success_examples": [
+        "Because training data lacked dialect diversity, the model flagged M\u0101ori slang as hate speech.",
+        "Storing dash-cam footage online raises privacy concerns because it reveals user locations.",
+        "LLM output can cause harm because hallucinations are hard to trace."
+      ],
+      "source_ref": "AS PDF p2 \u00b65"
     },
     {
       "id": "compare_multiple_impacts",
       "description": "Compares or contrasts two or more impacts, showing depth of understanding.",
       "level": "M",
       "weight": 1,
-      "detection_hint": "The student must use comparative language (‘whereas’, ‘more than’, ‘in contrast’) to weigh impacts. Listing two impacts in isolation is not comparison. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["while AI speeds triage, it also risks over-trust by doctors"],
-      "source_ref": "AS PDF p2 ¶5"
+      "detection_hint": "The student must compare two impacts using contrast terms ('while', 'in contrast', 'more than'). E.g., 'AI speeds up triage but increases over-trust in automated decisions'. Just listing two impacts without comparison is insufficient.",
+      "success_examples": [
+        "While AI speeds up triage decisions, it also increases the risk of over-trust by doctors.",
+        "CNNs improve pedestrian safety but are less explainable than rule-based systems.",
+        "AI chatbots reduce workload but risk leaking private health info."
+      ],
+      "source_ref": "AS PDF p2 \u00b65"
     },
     {
       "id": "discuss_key_issues",
       "description": "Explains a key technical or ethical issue (e.g., bias, adversarial attacks, tractability).",
       "level": "E",
       "weight": 1,
-      "detection_hint": "The explanation must name a concrete issue and discuss why it matters (e.g., “algorithmic bias can deny loans to certain groups”). Vague complaints are insufficient. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["algorithmic bias in facial recognition", "adversarial stickers fool image classifiers"],
+      "detection_hint": "A valid answer names a concrete issue (e.g., bias, hallucinations, misuse) and explains why it matters in context (e.g., 'Bias in hospital AI mislabels cultural terms'). Generic concerns or vague fear language are not enough. Highlight the issue + consequence.",
+      "success_examples": [
+        "Algorithmic bias in facial recognition has led to wrongful arrests.",
+        "LLM hallucinations in healthcare can produce fake diagnoses or dosages.",
+        "Deepfakes and voice clones can be misused for medical scams or identity theft."
+      ],
       "source_ref": "AS PDF comprehensive criterion"
     },
     {
@@ -104,8 +150,12 @@
       "description": "Judges the significance or severity of the issue, giving reasoning or criteria-based justification.",
       "level": "E",
       "weight": 1,
-      "detection_hint": "The response must make a claim about importance and back it with reasoning or evidence (e.g., statistics, criteria). Opinions without justification do not count. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["bias undermines fairness in healthcare AI where diagnosis errors harm patients"],
+      "detection_hint": "The answer must judge importance or severity using reasoning, evidence, or comparison. E.g., 'Hallucinations are severe in healthcare where errors harm patients'. Just saying 'it's a big issue' or giving an opinion without support is insufficient.",
+      "success_examples": [
+        "Bias in healthcare AI is more severe than in shopping apps because misdiagnoses harm patients.",
+        "Hallucinated dosage information in discharge summaries creates high-stakes risks.",
+        "Voice cloning scams can severely damage public trust in AI tools."
+      ],
       "source_ref": "AS PDF comprehensive criterion"
     },
     {
@@ -113,39 +163,66 @@
       "description": "Suggests a specific mitigation or future-proofing strategy linked to the identified issue.",
       "level": "E",
       "weight": 1,
-      "detection_hint": "The strategy must match the issue (e.g., “use diverse datasets to reduce bias”). Generic advice (‘test more’, ‘improve it’) does not count unless tied to the issue. Highlight the exact phrase(s) that satisfy or violate this indicator.",
-      "success_examples": ["diverse training data reduces bias", "sensor fusion removes glare problem"],
-      "source_ref": "AS PDF p2 ¶5 future-proofing"
+      "detection_hint": "The strategy must be a specific and logical response to the identified issue. E.g., 'Sensor fusion avoids CNN glare issues' or 'Reviewing summaries reduces LLM hallucinations'. Generic fixes ('make it better', 'test more') don\u2019t count without a clear link to the issue.",
+      "success_examples": [
+        "Sensor fusion can reduce glare-related braking errors in CNNs.",
+        "Requiring human review for LLM outputs avoids hallucination harm.",
+        "Diversifying training data reduces cultural bias in hate-speech filters."
+      ],
+      "source_ref": "AS PDF p2 \u00b65 future-proofing"
     }
   ],
   "aggregation_rules": {
     "method": "hierarchical",
-    "gate_sequence": ["A", "M", "E"],
+    "gate_sequence": [
+      "A",
+      "M",
+      "E"
+    ],
     "levels": {
-      "A": { "required_fraction": 1.0 },
-      "M": { "required_fraction": 0.60 },
-      "E": { "required_fraction": 0.50 }
+      "A": {
+        "required_fraction": 1.0
+      },
+      "M": {
+        "required_fraction": 0.6
+      },
+      "E": {
+        "required_fraction": 0.5
+      }
     },
     "sub_band_logic": {
       "Achieved": {
-        "A3": { "extra_merit_indicators": 0 },
-        "A4": { "extra_merit_indicators": "≥1" }
+        "A3": {
+          "extra_merit_indicators": 0
+        },
+        "A4": {
+          "extra_merit_indicators": "\u22651"
+        }
       },
       "Merit": {
-        "M5": { "extra_excellence_indicators": 0 },
-        "M6": { "extra_excellence_indicators": "≥1" }
+        "M5": {
+          "extra_excellence_indicators": 0
+        },
+        "M6": {
+          "extra_excellence_indicators": "\u22651"
+        }
       },
       "Excellence": {
-        "E7": { "excellence_fraction": "<1.0" },
-        "E8": { "excellence_fraction": "1.0" }
+        "E7": {
+          "excellence_fraction": "<1.0"
+        },
+        "E8": {
+          "excellence_fraction": "1.0"
+        }
       }
     },
     "fallback_grade": "N1"
   },
   "governance": {
-    "last_validated": "2025-06-13",
+    "last_validated": "2025-07-13",
     "change_log": [
-      "2025-07-10 – Tweaked detection hints for clarity, merged mechanism linkage, added advantage/limitation OMI, updated weights, added key terms."
+      "2025-07-10 \u2013 Tweaked detection hints for clarity, merged mechanism linkage, added advantage/limitation OMI, updated weights, added key terms.",
+      "2025-07-13 \u2013 Updated detection hints and success examples to align with social media, car safety, and healthcare domains."
     ]
   }
 }

@@ -43,10 +43,10 @@
 
 | # | Mechanism | Simple Sentence | Exam-Level Idea | Example | Main Risk |
 |---|-----------|------------------|------------------|---------|------------|
-| 1 | **Supervised Classification** | Learns to sort stuff into the right group (e.g., spam vs not-spam). | Finds an invisible line that separates *labelled* examples into classes. | Social media hate-speech filter. | Bias if training data is unbalanced. |
-| 2 | **CNN (Convolutional Neural Network)** | Finds shapes inside pictures so it can tell what’s there. | Layers spot pixels → edges → shapes → objects. | Car camera spots pedestrians. | Black-box: can't explain why it stopped. |
-| 3 | **Transformer / LLM (NLP)** | Finishes your sentence by guessing the next word. | Uses self-attention to predict next word based on context. | Summarises doctor notes. | Hallucinations: can invent fake facts. |
-| 4 | **Collaborative Recommender** | Shows things people with similar tastes liked. | Suggests based on user similarity via collaborative filtering. | TikTok "For You" feed. | Echo chambers reduce content diversity. |
+| 1 | **Supervised Classification** | Learns to sort stuff into the right group (e.g., spam vs not-spam). | Finds an invisible line that separates *labelled* examples into classes. | Social media hate-speech filter; Car detects road signs and reacts. | Bias if training data is unbalanced. |
+| 2 | **CNN (Convolutional Neural Network)** | Finds shapes inside pictures so it can tell what’s there. | Layers spot pixels → edges → shapes → objects. | Car camera spots pedestrians; Medical AI scans X-rays for tumours. | Black-box: can't explain why it stopped or flagged something. |
+| 3 | **Transformer / LLM (NLP)** | Finishes your sentence by guessing the next word. | Uses self-attention to predict next word based on context. | Summarises doctor notes; Chatbot replies in live customer support. | Hallucinations: can invent fake facts or give incorrect answers. |
+| 4 | **Collaborative Recommender** | Shows things people with similar tastes liked. | Suggests based on user similarity via collaborative filtering. | TikTok "For You" feed; Health app recommends workouts based on similar users. | Echo chambers reduce content diversity or spread misinformation. |
 
 ---
 
@@ -54,10 +54,10 @@
 
 | # | Concept | Simple Sentence | Detailed Idea | Key Formula | Quick Example | Risk / Misconception |
 |----|--------|------------------|----------------|-------------|----------------|------------------------|
-| 2.1 | Accuracy | How often the model is right. | Accuracy = correct predictions ÷ total. | Accuracy = TP + TN / Total | CNN classifies 95/100 correctly = 95%. | Doesn’t reflect false positives/negatives. |
-| 2.2 | Precision | How right the “yes” predictions are. | Precision = TP ÷ (TP + FP). | Precision = 45/50 | Model flags 50 emails as spam; 45 actually are. | High precision doesn’t mean high recall. |
-| 2.3 | Perplexity (NLP) | Lower = better, smoother predictions. | Measures how surprised model is by next word. | 2^cross-entropy | Perplexity 15 better than 25. | Doesn’t apply to image models. |
-| 2.4 | Precision@K | Evaluates recommendations. | Correct items in top-K ÷ K. | P@5 = 4/5 = 0.8 | 4 of top 5 videos are relevant. | Doesn’t reflect long-tail quality. |
+| 2.1 | Accuracy | How often the model is right. | Accuracy = correct predictions ÷ total. | Accuracy = TP + TN / Total | CNN classifies 95/100 correctly; Spam filter labels 90/100 correctly. | Doesn’t reflect false positives/negatives. |
+| 2.2 | Precision | How right the “yes” predictions are. | Precision = TP ÷ (TP + FP). | Precision = 45/50 | Email model flags 50 spam; 45 are correct. Medical tool flags 20 tumours, 18 are real. | High precision doesn’t mean it finds everything. |
+| 2.3 | Perplexity (NLP) | Lower = better, smoother predictions. | Measures how surprised model is by next word. | 2^cross-entropy | LLM with 15 perplexity gives smoother health summaries; 25 gives awkward phrasing. | Doesn’t apply to visual or recommender models. |
+| 2.4 | Precision@K | Evaluates recommendations. | Correct items in top-K ÷ K. | P@5 = 4/5 = 0.8 | TikTok shows 4 good videos in top 5; health app recommends 3 helpful habits in top 5. | Doesn’t measure long-term satisfaction or fairness. |
 
 ---
 
@@ -65,10 +65,10 @@
 
 | # | Stage | Simple Sentence | Detailed Idea | Key Step | Example | Risk |
 |----|--------|------------------|----------------|----------|---------|------|
-| 3.1 | Collection | Gather examples for training. | Gather labelled or raw data. | Step 1 | Dashcam images. | Bad data = bad model. |
-| 3.2 | Cleaning | Remove bad or private data. | Blur faces, fix errors, anonymise data. | Step 2 | Blur faces before training CNN. | Leaks, bias, or unfairness if skipped. |
-| 3.3 | Split | Divide for fair training/testing. | Keep test data unseen during training. | Step 3 | 80% train, 20% test. | Reusing test data fakes results. |
-| 3.4 | Evaluation | Measure performance. | Use metrics like accuracy and precision. | Step 4 | 95% accuracy, P@5 = 0.8 | No single metric tells full story. |
+| 3.1 | Collection | Gather examples for training. | Gather labelled or raw data. | Step 1 | Road camera footage; Medical reports. | Bad data = bad model. |
+| 3.2 | Cleaning | Remove bad or private data. | Blur faces, fix errors, anonymise data. | Step 2 | Blur number plates; Remove names in medical notes. | Leaks, bias, or unfairness if skipped. |
+| 3.3 | Split | Divide for fair training/testing. | Keep test data unseen during training. | Step 3 | 80% train, 20% test for X-ray classification; same for spam filter. | Reusing test data fakes results. |
+| 3.4 | Evaluation | Measure performance. | Use metrics like accuracy and precision. | Step 4 | 95% accuracy for tumour detection; P@5 = 0.8 for health recommendations. | No single metric tells full story. |
 
 ---
 
@@ -76,10 +76,10 @@
 
 | # | Issue | Simple Sentence | Detailed Idea | Example | Risk |
 |----|-------|------------------|----------------|---------|------|
-| 4.1 | Bias | AI can be unfair. | Training data might favour one group. | Misses dialect → unfair filter. | Discrimination or harm. |
-| 4.2 | Privacy | AI might leak data. | Sensitive info can be exposed or stored. | Chatbot saves conversations. | Legal + ethical issues. |
-| 4.3 | Explainability | Decisions are hard to trace. | Complex models like NNs are opaque. | CNN brakes suddenly. | Trust and accountability suffer. |
-| 4.4 | Misuse | AI used in harmful ways. | Deepfakes, scams, or manipulation. | AI clones voice for scam. | Can undermine trust in media. |
+| 4.1 | Bias | AI can be unfair. | Training data might favour one group. | Social app filters slang as hate speech; Hospital system misreads cultural terms. | Discrimination or harm. |
+| 4.2 | Privacy | AI might leak data. | Sensitive info can be exposed or stored. | Health chatbot stores answers; Dashcam uploads private locations. | Legal + ethical issues. |
+| 4.3 | Explainability | Decisions are hard to trace. | Complex models like NNs are opaque. | CNN brakes for unknown reason; LLM suggests wrong dosage. | Trust and accountability suffer. |
+| 4.4 | Misuse | AI used in harmful ways. | Deepfakes, scams, or manipulation. | Fake medical advice via AI; Social voice clones in scam calls. | Undermines public trust. |
 
 ---
 

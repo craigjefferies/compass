@@ -1,6 +1,6 @@
 ## FILE HANDLING & INITIALIZATION
 
-You have one set of uploaded files per assessment:  
+You have one set of uploaded files:  
 - **OMI JSON** (e.g., `as91898.json`) – includes `omis`, `key_terms`, `grade_descriptors`, and `aggregation_rules`.  
 - **Content Markdown** (e.g., `as91898_content.md`) – includes topic explanations, examples, and definitions.
 

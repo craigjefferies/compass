@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "as_code": "AS91608",
+    "title": "Undertake brief development to address an issue within a determined context",
+    "version": "3",
+    "credits": 4,
+    "assessment_type": "Internal",
+    "source_pdf": "as91608.pdf",
+    "purpose": "This achievement standard involves undertaking brief development to address an issue within a determined context."
+  },
+  "grade_descriptors": {
+    "N1": "Evidence does not reach the minimum threshold for Achieved-level indicators.",
+    "N2": "Some Achieved-level indicators are met, but not enough to satisfy all required Achieved criteria.",
+    "A3": "All Achieved-level indicators are met; no Merit-level indicator meets the Merit threshold.",
+    "A4": "All Achieved indicators are met and at least one Merit indicator is met, but overall performance is below the Merit threshold.",
+    "M5": "All Achieved indicators are met and the Merit threshold is reached; no Excellence-level indicator meets the Excellence threshold.",
+    "M6": "All Achieved indicators are met, all Merit indicators are met, and at least one Excellence indicator is met, but overall performance is below the Excellence threshold.",
+    "E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
+    "E8": "All Achieved, Merit, and Excellence indicators are met."
+  },
+  "key_terms": [
+    { "term": "brief development", "definition": "The iterative process of identifying an issue, establishing a need or opportunity, and developing specifications to guide a technological outcome." },
+    { "term": "context considerations", "definition": "The social and physical conditions under which the outcome will be developed and situated." },
+    { "term": "fitness for purpose in the broadest sense", "definition": "Judgement of an outcome based on its technical and social acceptability, sustainability, ethical and cultural considerations, lifecycle, and health and safety." }
+  ],
+  "omis": [
+    {
+      "id": "establish_issue_context",
+      "description": "Establishes an issue and identifies related context considerations.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Stating a general topic is not enough; the student must describe a specific issue and link it to relevant context details. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Buying an electric guitar is very expensive for beginners", "Lighting is poor in the workshop"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "explain_context_issue_link",
+      "description": "Explains how context considerations relate to the established issue.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Listing context details is not enough; the explanation must show how they connect to the issue. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Limited space means the lamp must be compact", "Cost matters because the user is a student"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "determine_need_or_opportunity",
+      "description": "Determines a need or opportunity that resides within the established issue.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Mentioning a product idea is not enough; the need or opportunity must be logically derived from the issue. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["A low-cost practice guitar is needed", "A stable lamp that lights the bench area"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "reflect_stakeholders_need_context",
+      "description": "Reflects on views of key stakeholders related to the need/opportunity and wider context.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Listing stakeholder quotes is not enough; the response must reflect on how their input influenced the brief. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["My client prefers adjustability over fixed light", "Dad said space is tight, so lamp must be small"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "reflect_context_environment",
+      "description": "Reflects on context considerations, including the social and physical environment.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Mentioning the environment is not enough; the student must reflect on how it affects design decisions. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The garage has no natural light so artificial lighting is crucial", "The bench is small, so the base must be compact"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "final_brief_fitness_judgement",
+      "description": "Develops a final brief that allows judgement of outcome’s fitness for purpose in the broadest sense.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Simply listing features is not enough; the brief must specify criteria that allow evaluation of fitness for purpose. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Lamp must remain upright on uneven surfaces", "Must not heat up after 1 hour use"],
+      "source_ref": "AS PDF p2 ¶2"
+    },
+    {
+      "id": "demonstrate_spec_fitness_purpose",
+      "description": "Demonstrates how the specifications allow judgement of outcome’s fitness for purpose in the broadest sense.",
+      "level": "M",
+      "weight": 1,
+      "detection_hint": "Mentioning specs is not enough; the student must explain how each enables evaluation of fitness. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Steel base ensures durability in garage use", "Adjustable hinge supports different tasks"],
+      "source_ref": "High Merit commentary"
+    },
+    {
+      "id": "consider_technical_social_acceptability",
+      "description": "Considers the technical and social acceptability of the outcome.",
+      "level": "M",
+      "weight": 1,
+      "detection_hint": "General praise is not enough; must address performance (technical) and usability/social expectations. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Lamp is safe to adjust with one hand", "The lamp looks professional enough for client’s studio"],
+      "source_ref": "High Merit commentary"
+    },
+    {
+      "id": "justify_spec_fitness_purpose",
+      "description": "Justifies why the specifications allow judgement of outcome’s fitness for purpose in the broadest sense.",
+      "level": "E",
+      "weight": 2,
+      "detection_hint": "Intentions or opinions are not justification unless reasoning is shown. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Aluminium was chosen because it balances strength and workability, important in tight spaces", "Hinge uses brass for low wear over time"],
+      "source_ref": "Low Excellence commentary"
+    },
+    {
+      "id": "consider_broader_fitness_criteria",
+      "description": "Considers sustainability, lifecycle, disposal, or health and safety in the final brief.",
+      "level": "E",
+      "weight": 1,
+      "detection_hint": "Stating general values is not enough; must address specific aspects of sustainability or safety in outcome use. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Brass can be recycled after use", "Cable path avoids pinch points to reduce hazard"],
+      "source_ref": "Low Excellence commentary"
+    }
+  ],
+  "aggregation_rules": {
+    "method": "hierarchical",
+    "gate_sequence": ["A", "M", "E"],
+    "levels": {
+      "A": { "required_fraction": 1.0 },
+      "M": { "required_fraction": 0.60 },
+      "E": { "required_fraction": 0.50 }
+    },
+    "sub_band_logic": {
+      "Achieved": {
+        "A3": { "extra_merit_indicators": 0 },
+        "A4": { "extra_merit_indicators": "≥1" }
+      },
+      "Merit": {
+        "M5": { "extra_excellence_indicators": 0 },
+        "M6": { "extra_excellence_indicators": "≥1" }
+      },
+      "Excellence": {
+        "E7": { "excellence_fraction": "<1.0" },
+        "E8": { "excellence_fraction": "1.0" }
+      }
+    },
+    "fallback_grade": "N1"
+  },
+  "governance": {
+    "last_validated": "2025-06-13",
+    "change_log": []
+  }
+}

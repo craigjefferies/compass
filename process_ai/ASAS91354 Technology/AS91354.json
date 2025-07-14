@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "as_code": "AS91354",
+    "title": "Undertake brief development to address an issue",
+    "version": "3",
+    "credits": 4,
+    "assessment_type": "Internal",
+    "source_pdf": "as91354.pdf",
+    "purpose": "This achievement standard involves undertaking brief development to address an issue by exploring a context, determining needs and stakeholders, considering environments, and producing a final brief including a conceptual statement and specifications."
+  },
+  "grade_descriptors": {
+    "N1": "Evidence does not reach the minimum threshold for Achieved-level indicators.",
+    "N2": "Some Achieved-level indicators are met, but not enough to satisfy all required Achieved criteria.",
+    "A3": "All Achieved-level indicators are met; no Merit-level indicator meets the Merit threshold.",
+    "A4": "All Achieved indicators are met and at least one Merit indicator is met, but overall performance is below the Merit threshold.",
+    "M5": "All Achieved indicators are met and the Merit threshold is reached; no Excellence-level indicator meets the Excellence threshold.",
+    "M6": "All Achieved indicators are met, all Merit indicators are met, and at least one Excellence indicator is met, but overall performance is below the Excellence threshold.",
+    "E7": "All Achieved and Merit indicators are met and the Excellence threshold is reached, but not all Excellence indicators are met.",
+    "E8": "All Achieved, Merit, and Excellence indicators are met."
+  },
+  "key_terms": [
+    { "term": "brief", "definition": "A succinct guiding document that includes a conceptual statement and specifications describing what is to be developed and why." },
+    { "term": "stakeholders", "definition": "Individuals or groups who have a vested interest in the technological outcome and provide feedback." },
+    { "term": "physical and functional attributes", "definition": "Characteristics that define how the outcome looks (physical) and operates (functional)." },
+    { "term": "context", "definition": "The wider social and physical environment in which technological development occurs." }
+  ],
+  "omis": [
+    {
+      "id": "identify_issue_from_context",
+      "description": "Identifies an issue as a result of exploring the given context.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Stating the context alone is not enough; the student must explicitly identify a specific issue arising from their exploration of the teacher-provided context. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The issue was the lack of storage space in the room.", "The garment must stand out on the runway."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "determine_need_and_stakeholders",
+      "description": "Determines a need or opportunity and identifies associated stakeholders relevant to the issue.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Naming a need is not enough; the student must also identify real, relevant stakeholders linked to that need. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The need for a functional unit was identified and discussed with my mother.", "The outfit was needed for a 21st and a fashion show."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "consider_environment_ongoing",
+      "description": "Reflects ongoing consideration of the social and physical environment during brief development.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "One-off mentions of the environment are insufficient; the student must show how environmental factors (e.g., space, lighting, season) informed outcome design. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The fashion show’s lighting influenced the choice of fabric and colour.", "Space constraints in the venue were considered in the design."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "reflect_key_stakeholder_opinions",
+      "description": "Reflects ongoing input from key stakeholders throughout the brief development.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Simply mentioning stakeholders is not enough; their input must be shown to influence decision-making. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["My mother wanted the unit to match the décor.", "The organiser suggested bold colours for visual impact."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "describe_and_explain_outcome",
+      "description": "Describes the outcome to be developed and explains why it should be developed.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Describing the outcome is insufficient unless accompanied by a justification that draws from findings in the context exploration. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The unit will store tools needed daily to avoid mess.", "The outfit is for both the 21st birthday and the runway."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "explain_physical_and_functional_attributes",
+      "description": "Explains the required physical and functional attributes of the outcome.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "Listing attributes is not enough; the student must explain why those attributes are necessary based on the context or stakeholder input. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["It must be waterproof to handle spills.", "The high neckline allows for modesty at formal events."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "produce_final_brief",
+      "description": "Produces a final brief containing a conceptual statement and measurable specifications.",
+      "level": "A",
+      "weight": 1,
+      "detection_hint": "The student must clearly present both a conceptual statement (explaining what and why) and specifications (measurable requirements). Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["My final brief includes the outcome’s purpose and the measurements required.", "The brief outlines both form and function."],
+      "source_ref": "AS PDF p2 ¶2; Clarification document"
+    },
+    {
+      "id": "prioritise_environmental_considerations",
+      "description": "Prioritises social and physical environmental considerations to inform decision-making.",
+      "level": "M",
+      "weight": 1,
+      "detection_hint": "Listing environmental factors is not sufficient; the student must show how these considerations influenced final decisions (e.g. material, dimensions, aesthetics). Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Three coats of oil were chosen for durability in the workshop.", "Fabric was selected to reflect light on the runway."],
+      "source_ref": "Merit exemplar; Clarification document"
+    },
+    {
+      "id": "integrate_wider_stakeholder_feedback",
+      "description": "Integrates ongoing feedback from both key and wider stakeholders into the brief development.",
+      "level": "M",
+      "weight": 2,
+      "detection_hint": "Mentioning consultation is not enough; the student must show how broader feedback shaped or refined the brief. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Feedback from the event organiser led to changing the colour palette.", "The shelf height was adjusted after testing with peers."],
+      "source_ref": "Merit exemplar; Clarification document"
+    },
+    {
+      "id": "justify_outcome_choice",
+      "description": "Justifies why this particular outcome was chosen to address the issue.",
+      "level": "E",
+      "weight": 2,
+      "detection_hint": "Explaining the outcome is not enough; the student must justify how it specifically addresses the issue better than alternatives. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["The outfit’s dramatic design ensures it stands out among competitors.", "The compact design makes it ideal for small bedrooms."],
+      "source_ref": "Excellence commentary; Clarification document"
+    },
+    {
+      "id": "justify_specifications",
+      "description": "Justifies the specifications in relation to the physical and functional attributes required for the outcome.",
+      "level": "E",
+      "weight": 2,
+      "detection_hint": "Stating the specifications is not enough; the student must explain why each one is necessary in relation to appearance, performance, or environment. Highlight the exact phrase(s) that satisfy or violate this indicator.",
+      "success_examples": ["Velcro was chosen because it allows for quick costume changes.", "Slanted sides reduce tipping on uneven flooring."],
+      "source_ref": "Excellence commentary; Clarification document"
+    }
+  ],
+  "aggregation_rules": {
+    "method": "hierarchical",
+    "gate_sequence": ["A", "M", "E"],
+    "levels": {
+      "A": { "required_fraction": 1.0 },
+      "M": { "required_fraction": 0.60 },
+      "E": { "required_fraction": 0.50 }
+    },
+    "sub_band_logic": {
+      "Achieved": {
+        "A3": { "extra_merit_indicators": 0 },
+        "A4": { "extra_merit_indicators": "≥1" }
+      },
+      "Merit": {
+        "M5": { "extra_excellence_indicators": 0 },
+        "M6": { "extra_excellence_indicators": "≥1" }
+      },
+      "Excellence": {
+        "E7": { "excellence_fraction": "<1.0" },
+        "E8": { "excellence_fraction": "1.0" }
+      }
+    },
+    "fallback_grade": "N1"
+  },
+  "governance": {
+    "last_validated": "2025-06-13",
+    "change_log": []
+  }
+}
